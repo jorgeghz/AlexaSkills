@@ -1,0 +1,254 @@
+id,latitude,longitude,city,country,state,url
+jQdc7hswtgkPMkaCz,32.60363889,-115.4859444,Mexicali,Mexico,Baja California,http://api.airvisual.com/v2/nearest_city?lat=32.60363889&lon=-115.4859444&key=a3EQHRApv3Eaa52iX
+5b17393d72ab10af9f02e0ee,27.07028,-109.44372,Chihuahua,Mexico,Chihuahua,http://api.airvisual.com/v2/nearest_city?lat=27.07028&lon=-109.44372&key=a3EQHRApv3Eaa52iX
+5b17393e72ab10af9f02e0f3,27.48642,-109.94083,Chihuahua,Mexico,Chihuahua,http://api.airvisual.com/v2/nearest_city?lat=27.48642&lon=-109.94083&key=a3EQHRApv3Eaa52iX
+5b17393f72ab10af9f02e0f6,25.79302,-108.99808,Chihuahua,Mexico,Chihuahua,http://api.airvisual.com/v2/nearest_city?lat=25.79302&lon=-108.99808&key=a3EQHRApv3Eaa52iX
+5b17393f72ab10af9f02e0f8,25.56745,-108.46756,Chihuahua,Mexico,Chihuahua,http://api.airvisual.com/v2/nearest_city?lat=25.56745&lon=-108.46756&key=a3EQHRApv3Eaa52iX
+5b17394c72ab10af9f02e139,26.93022,-105.6664,Chihuahua,Mexico,Chihuahua,http://api.airvisual.com/v2/nearest_city?lat=26.93022&lon=-105.6664&key=a3EQHRApv3Eaa52iX
+5b17394d72ab10af9f02e13a,28.40884,-106.86319,Chihuahua,Mexico,Chihuahua,http://api.airvisual.com/v2/nearest_city?lat=28.40884&lon=-106.86319&key=a3EQHRApv3Eaa52iX
+5b17394d72ab10af9f02e13c,28.19013,-105.47012,Chihuahua,Mexico,Chihuahua,http://api.airvisual.com/v2/nearest_city?lat=28.19013&lon=-105.47012&key=a3EQHRApv3Eaa52iX
+NqixNoXLxd63WB95A,28.65222778,-106.0853583,Chihuahua,Mexico,Chihuahua,http://api.airvisual.com/v2/nearest_city?lat=28.65222778&lon=-106.0853583&key=a3EQHRApv3Eaa52iX
+vf8WyAq2bXJAW5dzu,28.632775,-106.0388669,Chihuahua,Mexico,Chihuahua,http://api.airvisual.com/v2/nearest_city?lat=28.632775&lon=-106.0388669&key=a3EQHRApv3Eaa52iX
+5b17393c72ab10af9f02e0e9,22.76843,-102.58141,Ciudad Juárez,Mexico,Chihuahua,http://api.airvisual.com/v2/nearest_city?lat=22.76843&lon=-102.58141&key=a3EQHRApv3Eaa52iX
+5b17393c72ab10af9f02e0eb,23.18126,-102.87136,Ciudad Juárez,Mexico,Chihuahua,http://api.airvisual.com/v2/nearest_city?lat=23.18126&lon=-102.87136&key=a3EQHRApv3Eaa52iX
+5b17393f72ab10af9f02e0f7,23.2329,-106.4062,Durango,Mexico,Durango,http://api.airvisual.com/v2/nearest_city?lat=23.2329&lon=-106.4062&key=a3EQHRApv3Eaa52iX
+5b17393f72ab10af9f02e0f9,25.4587,-108.07732,Durango,Mexico,Durango,http://api.airvisual.com/v2/nearest_city?lat=25.4587&lon=-108.07732&key=a3EQHRApv3Eaa52iX
+5b17393f72ab10af9f02e0fa,24.79032,-107.38782,Durango,Mexico,Durango,http://api.airvisual.com/v2/nearest_city?lat=24.79032&lon=-107.38782&key=a3EQHRApv3Eaa52iX
+5b17394972ab10af9f02e129,25.53718,-103.52456,Durango,Mexico,Durango,http://api.airvisual.com/v2/nearest_city?lat=25.53718&lon=-103.52456&key=a3EQHRApv3Eaa52iX
+5b17394b72ab10af9f02e131,25.54389,-103.41898,Durango,Mexico,Durango,http://api.airvisual.com/v2/nearest_city?lat=25.54389&lon=-103.41898&key=a3EQHRApv3Eaa52iX
+5b17394b72ab10af9f02e135,25.52699,-103.2285,Durango,Mexico,Durango,http://api.airvisual.com/v2/nearest_city?lat=25.52699&lon=-103.2285&key=a3EQHRApv3Eaa52iX
+5b17394e72ab10af9f02e13f,24.14437,-110.3005,Durango,Mexico,Durango,http://api.airvisual.com/v2/nearest_city?lat=24.14437&lon=-110.3005&key=a3EQHRApv3Eaa52iX
+EmCaF6NztSWyxLLSJ,24.02677778,-104.692975,Durango,Mexico,Durango,http://api.airvisual.com/v2/nearest_city?lat=24.026777777778&lon=-104.692975&key=a3EQHRApv3Eaa52iX
+TuXkhq9ABDdpaW9Dn,24.05155556,-104.6113611,Durango,Mexico,Durango,http://api.airvisual.com/v2/nearest_city?lat=24.05155556&lon=-104.6113611&key=a3EQHRApv3Eaa52iX
+5b17392e72ab10af9f02e0a4,19.685,-99.12806,Coacalco,Mexico,Estado de Mexico,http://api.airvisual.com/v2/nearest_city?lat=19.685&lon=-99.12806&key=a3EQHRApv3Eaa52iX
+5b17392f72ab10af9f02e0ab,19.66658,-99.09477,Coacalco,Mexico,Estado de Mexico,http://api.airvisual.com/v2/nearest_city?lat=19.66658&lon=-99.09477&key=a3EQHRApv3Eaa52iX
+5b17393372ab10af9f02e0bc,19.68028,-99.01,Coacalco,Mexico,Estado de Mexico,http://api.airvisual.com/v2/nearest_city?lat=19.68028&lon=-99.01&key=a3EQHRApv3Eaa52iX
+CK4Qg7FYRiDSy7j5f,19.6575,-99.09666667,Coacalco,Mexico,Estado de Mexico,http://api.airvisual.com/v2/nearest_city?lat=19.6575&lon=-99.096666666667&key=a3EQHRApv3Eaa52iX
+cxoyz3WHFE8Boz2Zu,19.658223,-99.09659,Coacalco,Mexico,Estado de Mexico,http://api.airvisual.com/v2/nearest_city?lat=19.658223&lon=-99.09659&key=a3EQHRApv3Eaa52iX
+5b17393272ab10af9f02e0bb,19.35985,-99.35016,Marquesa,Mexico,Estado de Mexico,http://api.airvisual.com/v2/nearest_city?lat=19.35985&lon=-99.35016&key=a3EQHRApv3Eaa52iX
+5b17392f72ab10af9f02e0aa,19.42155,-98.95038,Nezahualcóyotl,Mexico,Estado de Mexico,http://api.airvisual.com/v2/nearest_city?lat=19.42155&lon=-98.95038&key=a3EQHRApv3Eaa52iX
+5b17393072ab10af9f02e0b1,19.36357,-98.97707,Nezahualcóyotl,Mexico,Estado de Mexico,http://api.airvisual.com/v2/nearest_city?lat=19.36357&lon=-98.97707&key=a3EQHRApv3Eaa52iX
+5b17393272ab10af9f02e0b7,19.41687,-98.90202,Nezahualcóyotl,Mexico,Estado de Mexico,http://api.airvisual.com/v2/nearest_city?lat=19.41687&lon=-98.90202&key=a3EQHRApv3Eaa52iX
+5b17394672ab10af9f02e11a,20.3914,-101.19222,Abasolo,Mexico,Guanajuato,http://api.airvisual.com/v2/nearest_city?lat=20.3914&lon=-101.19222&key=a3EQHRApv3Eaa52iX
+sfYcFqdiTTHJGWhE4,20.42527778,-101.1980556,Abasolo,Mexico,Guanajuato,http://api.airvisual.com/v2/nearest_city?lat=20.42527778&lon=-101.1980556&key=a3EQHRApv3Eaa52iX
+5b17392772ab10af9f02e080,20.58806,-100.38806,Celaya,Mexico,Guanajuato,http://api.airvisual.com/v2/nearest_city?lat=20.58806&lon=-100.38806&key=a3EQHRApv3Eaa52iX
+5b17394772ab10af9f02e11d,20.91528,-100.74389,Celaya,Mexico,Guanajuato,http://api.airvisual.com/v2/nearest_city?lat=20.91528&lon=-100.74389&key=a3EQHRApv3Eaa52iX
+5b17394772ab10af9f02e122,20.48362,-100.96237,Celaya,Mexico,Guanajuato,http://api.airvisual.com/v2/nearest_city?lat=20.48362&lon=-100.96237&key=a3EQHRApv3Eaa52iX
+5b17394872ab10af9f02e124,20.03085,-100.72194,Celaya,Mexico,Guanajuato,http://api.airvisual.com/v2/nearest_city?lat=20.03085&lon=-100.72194&key=a3EQHRApv3Eaa52iX
+DYAJbXCenjoSrdcg2,20.914813,-100.743844,Celaya,Mexico,Guanajuato,http://api.airvisual.com/v2/nearest_city?lat=20.914813&lon=-100.743844&key=a3EQHRApv3Eaa52iX
+JkHYrZ7KbbiE7i7iw,20.54527778,-100.8069444,Celaya,Mexico,Guanajuato,http://api.airvisual.com/v2/nearest_city?lat=20.545277777778&lon=-100.80694444444&key=a3EQHRApv3Eaa52iX
+SyCLWbphnApX5d6B9,20.5375,-100.8397222,Celaya,Mexico,Guanajuato,http://api.airvisual.com/v2/nearest_city?lat=20.5375&lon=-100.8397222&key=a3EQHRApv3Eaa52iX
+vzyqqoHtYK9oNiWMD,20.5175,-100.8155556,Celaya,Mexico,Guanajuato,http://api.airvisual.com/v2/nearest_city?lat=20.5175&lon=-100.8155556&key=a3EQHRApv3Eaa52iX
+5b17394372ab10af9f02e108,20.34239,-102.0305,Irapuato,Mexico,Guanajuato,http://api.airvisual.com/v2/nearest_city?lat=20.34239&lon=-102.0305&key=a3EQHRApv3Eaa52iX
+QAoSa9yXdTepRt9Z5,20.6925,-101.365,Irapuato,Mexico,Guanajuato,http://api.airvisual.com/v2/nearest_city?lat=20.6925&lon=-101.365&key=a3EQHRApv3Eaa52iX
+idMbM6dzSzDtfgkDg,20.450916,-101.528686,Irapuato,Mexico,Guanajuato,http://api.airvisual.com/v2/nearest_city?lat=20.450916&lon=-101.528686&key=a3EQHRApv3Eaa52iX
+pL5ePxT7MHpYcBbWb,20.65805556,-101.3488889,Irapuato,Mexico,Guanajuato,http://api.airvisual.com/v2/nearest_city?lat=20.65805556&lon=-101.3488889&key=a3EQHRApv3Eaa52iX
+wXimC47KNHmNj8Lu2,20.67495,-101.35595,Irapuato,Mexico,Guanajuato,http://api.airvisual.com/v2/nearest_city?lat=20.67495&lon=-101.35595&key=a3EQHRApv3Eaa52iX
+5b17394572ab10af9f02e114,21.35666,-101.93768,Leon,Mexico,Guanajuato,http://api.airvisual.com/v2/nearest_city?lat=21.35666&lon=-101.93768&key=a3EQHRApv3Eaa52iX
+5b17394772ab10af9f02e11e,21.01843,-101.85515,Leon,Mexico,Guanajuato,http://api.airvisual.com/v2/nearest_city?lat=21.01843&lon=-101.85515&key=a3EQHRApv3Eaa52iX
+5b17394772ab10af9f02e11f,21.12908,-101.67374,Leon,Mexico,Guanajuato,http://api.airvisual.com/v2/nearest_city?lat=21.12908&lon=-101.67374&key=a3EQHRApv3Eaa52iX
+YgHaP3RGq5teH3Q7W,21.13333333,-101.68,Leon,Mexico,Guanajuato,http://api.airvisual.com/v2/nearest_city?lat=21.13333333&lon=-101.68&key=a3EQHRApv3Eaa52iX
+obbB5WDfja784E8aL,21.034389,-101.866583,Leon,Mexico,Guanajuato,http://api.airvisual.com/v2/nearest_city?lat=21.034389&lon=-101.866583&key=a3EQHRApv3Eaa52iX
+tf9L9PyEwFWZAmSJA,21.10305556,-101.6361111,Leon,Mexico,Guanajuato,http://api.airvisual.com/v2/nearest_city?lat=21.10305556&lon=-101.6361111&key=a3EQHRApv3Eaa52iX
+unLbjjzx3Fvrhuokq,21.10861111,-101.6886111,Leon,Mexico,Guanajuato,http://api.airvisual.com/v2/nearest_city?lat=21.10861111&lon=-101.6886111&key=a3EQHRApv3Eaa52iX
+Coa7YjLzpDJhcjrjR,20.57861111,-101.1988889,Salamanca,Mexico,Guanajuato,http://api.airvisual.com/v2/nearest_city?lat=20.578611111111&lon=-101.19888888889&key=a3EQHRApv3Eaa52iX
+vSwDMFt2Y4oFZm9va,20.565,-101.1880556,Salamanca,Mexico,Guanajuato,http://api.airvisual.com/v2/nearest_city?lat=20.565&lon=-101.1880556&key=a3EQHRApv3Eaa52iX
+zPidNj2Xay6XuSajP,20.55805556,-101.2047222,Salamanca,Mexico,Guanajuato,http://api.airvisual.com/v2/nearest_city?lat=20.55805556&lon=-101.2047222&key=a3EQHRApv3Eaa52iX
+5b17394072ab10af9f02e0fc,21.99631,-99.01093,San Luis de la Paz,Mexico,Guanajuato,http://api.airvisual.com/v2/nearest_city?lat=21.99631&lon=-99.01093&key=a3EQHRApv3Eaa52iX
+5b17394872ab10af9f02e125,21.15611,-100.9325,San Luis de la Paz,Mexico,Guanajuato,http://api.airvisual.com/v2/nearest_city?lat=21.15611&lon=-100.9325&key=a3EQHRApv3Eaa52iX
+6FGHdQvgpGvfD4uJo,21.298874,-100.51557,San Luis de la Paz,Mexico,Guanajuato,http://api.airvisual.com/v2/nearest_city?lat=21.298874&lon=-100.51557&key=a3EQHRApv3Eaa52iX
+5b17394772ab10af9f02e121,21.01858,-101.2591,Silao,Mexico,Guanajuato,http://api.airvisual.com/v2/nearest_city?lat=21.01858&lon=-101.2591&key=a3EQHRApv3Eaa52iX
+MTfsGbxMuBNoAJJQq,21.017676,-101.257517,Silao,Mexico,Guanajuato,http://api.airvisual.com/v2/nearest_city?lat=21.017676&lon=-101.257517&key=a3EQHRApv3Eaa52iX
+XuoLcGaMQg9PDZJnA,21.01758333,-101.2573611,Silao,Mexico,Guanajuato,http://api.airvisual.com/v2/nearest_city?lat=21.01758333&lon=-101.2573611&key=a3EQHRApv3Eaa52iX
+pY9QXCitrqhonsDRQ,20.94777778,-101.4258333,Silao,Mexico,Guanajuato,http://api.airvisual.com/v2/nearest_city?lat=20.94777778&lon=-101.4258333&key=a3EQHRApv3Eaa52iX
+JTHFKcj7muDne4Lb4,20.06,-99.22194444,Atitalaquia,Mexico,Hidalgo,http://api.airvisual.com/v2/nearest_city?lat=20.06&lon=-99.221944444444&key=a3EQHRApv3Eaa52iX
+RXBZLW32ckdk94G7R,20.00666667,-99.21888889,Atotonilco de Tula,Mexico,Hidalgo,http://api.airvisual.com/v2/nearest_city?lat=20.00666667&lon=-99.21888889&key=a3EQHRApv3Eaa52iX
+5b17392072ab10af9f02e05d,20.95777,-97.40805,Pachuca de Soto,Mexico,Hidalgo,http://api.airvisual.com/v2/nearest_city?lat=20.95777&lon=-97.40805&key=a3EQHRApv3Eaa52iX
+5b17392072ab10af9f02e05e,21.06611,-97.64207,Pachuca de Soto,Mexico,Hidalgo,http://api.airvisual.com/v2/nearest_city?lat=21.06611&lon=-97.64207&key=a3EQHRApv3Eaa52iX
+5b17392072ab10af9f02e05f,21.35064,-98.2257,Pachuca de Soto,Mexico,Hidalgo,http://api.airvisual.com/v2/nearest_city?lat=21.35064&lon=-98.2257&key=a3EQHRApv3Eaa52iX
+5b17392372ab10af9f02e06c,22.24484,-97.8352,Pachuca de Soto,Mexico,Hidalgo,http://api.airvisual.com/v2/nearest_city?lat=22.24484&lon=-97.8352&key=a3EQHRApv3Eaa52iX
+5b17392372ab10af9f02e070,22.32085,-97.8595,Pachuca de Soto,Mexico,Hidalgo,http://api.airvisual.com/v2/nearest_city?lat=22.32085&lon=-97.8595&key=a3EQHRApv3Eaa52iX
+5b17392472ab10af9f02e074,22.27228,-97.83623,Pachuca de Soto,Mexico,Hidalgo,http://api.airvisual.com/v2/nearest_city?lat=22.27228&lon=-97.83623&key=a3EQHRApv3Eaa52iX
+5b17392472ab10af9f02e075,22.39215,-97.93867,Pachuca de Soto,Mexico,Hidalgo,http://api.airvisual.com/v2/nearest_city?lat=22.39215&lon=-97.93867&key=a3EQHRApv3Eaa52iX
+5b17393472ab10af9f02e0c2,20.08355,-98.36288,Pachuca de Soto,Mexico,Hidalgo,http://api.airvisual.com/v2/nearest_city?lat=20.08355&lon=-98.36288&key=a3EQHRApv3Eaa52iX
+ToaEMzx8QMNLeKW6Z,20.07722222,-98.77797222,Pachuca de Soto,Mexico,Hidalgo,http://api.airvisual.com/v2/nearest_city?lat=20.07722222&lon=-98.77797222&key=a3EQHRApv3Eaa52iX
+sJJm3C7uWhKiSBtmS,20.12055556,-98.74,Pachuca de Soto,Mexico,Hidalgo,http://api.airvisual.com/v2/nearest_city?lat=20.12055556&lon=-98.74&key=a3EQHRApv3Eaa52iX
+AJLMSRecm9BHceJ6e,19.90555556,-99.34694444,Tepeji,Mexico,Hidalgo,http://api.airvisual.com/v2/nearest_city?lat=19.905555555556&lon=-99.346944444444&key=a3EQHRApv3Eaa52iX
+5b17392e72ab10af9f02e0a2,19.7967,-99.09946,Tizayuca,Mexico,Hidalgo,http://api.airvisual.com/v2/nearest_city?lat=19.7967&lon=-99.09946&key=a3EQHRApv3Eaa52iX
+B637tXbG288hiF7BM,19.84058333,-98.98133333,Tizayuca,Mexico,Hidalgo,http://api.airvisual.com/v2/nearest_city?lat=19.840583333333&lon=-98.981333333333&key=a3EQHRApv3Eaa52iX
+2rbdxw6QswFvWN4NM,20.05377778,-99.34005556,Tula de Allende,Mexico,Hidalgo,http://api.airvisual.com/v2/nearest_city?lat=20.053777777778&lon=-99.340055555556&key=a3EQHRApv3Eaa52iX
+5b17392772ab10af9f02e07f,20.38886,-99.99577,Tula de Allende,Mexico,Hidalgo,http://api.airvisual.com/v2/nearest_city?lat=20.38886&lon=-99.99577&key=a3EQHRApv3Eaa52iX
+39mExbLEqAM62notc,20.61444444,-103.3433333,Guadalajara,Mexico,Jalisco,http://api.airvisual.com/v2/nearest_city?lat=20.614444444444&lon=-103.34333333333&key=a3EQHRApv3Eaa52iX
+5b17394272ab10af9f02e106,20.05859,-102.71575,Guadalajara,Mexico,Jalisco,http://api.airvisual.com/v2/nearest_city?lat=20.05859&lon=-102.71575&key=a3EQHRApv3Eaa52iX
+5b17394472ab10af9f02e10e,20.72356,-103.38479,Guadalajara,Mexico,Jalisco,http://api.airvisual.com/v2/nearest_city?lat=20.72356&lon=-103.38479&key=a3EQHRApv3Eaa52iX
+5b17394472ab10af9f02e10f,20.62445,-103.23423,Guadalajara,Mexico,Jalisco,http://api.airvisual.com/v2/nearest_city?lat=20.62445&lon=-103.23423&key=a3EQHRApv3Eaa52iX
+5b17394472ab10af9f02e110,20.64091,-103.29327,Guadalajara,Mexico,Jalisco,http://api.airvisual.com/v2/nearest_city?lat=20.64091&lon=-103.29327&key=a3EQHRApv3Eaa52iX
+5b17394472ab10af9f02e111,20.81692,-102.76347,Guadalajara,Mexico,Jalisco,http://api.airvisual.com/v2/nearest_city?lat=20.81692&lon=-102.76347&key=a3EQHRApv3Eaa52iX
+5b17394572ab10af9f02e112,20.617,-105.23018,Guadalajara,Mexico,Jalisco,http://api.airvisual.com/v2/nearest_city?lat=20.617&lon=-105.23018&key=a3EQHRApv3Eaa52iX
+5b17394572ab10af9f02e113,20.3553,-102.77358,Guadalajara,Mexico,Jalisco,http://api.airvisual.com/v2/nearest_city?lat=20.3553&lon=-102.77358&key=a3EQHRApv3Eaa52iX
+5b17394572ab10af9f02e116,20.51895,-103.18159,Guadalajara,Mexico,Jalisco,http://api.airvisual.com/v2/nearest_city?lat=20.51895&lon=-103.18159&key=a3EQHRApv3Eaa52iX
+5b17394572ab10af9f02e117,19.70466,-103.4617,Guadalajara,Mexico,Jalisco,http://api.airvisual.com/v2/nearest_city?lat=19.70466&lon=-103.4617&key=a3EQHRApv3Eaa52iX
+5b17394672ab10af9f02e118,20.51806,-103.38056,Guadalajara,Mexico,Jalisco,http://api.airvisual.com/v2/nearest_city?lat=20.51806&lon=-103.38056&key=a3EQHRApv3Eaa52iX
+5b17394a72ab10af9f02e12b,19.26722,-103.73778,Guadalajara,Mexico,Jalisco,http://api.airvisual.com/v2/nearest_city?lat=19.26722&lon=-103.73778&key=a3EQHRApv3Eaa52iX
+5b17394a72ab10af9f02e12c,18.91678,-103.87786,Guadalajara,Mexico,Jalisco,http://api.airvisual.com/v2/nearest_city?lat=18.91678&lon=-103.87786&key=a3EQHRApv3Eaa52iX
+5b17394a72ab10af9f02e12d,19.11695,-104.34214,Guadalajara,Mexico,Jalisco,http://api.airvisual.com/v2/nearest_city?lat=19.11695&lon=-104.34214&key=a3EQHRApv3Eaa52iX
+5b17394a72ab10af9f02e12e,19.24997,-103.72714,Guadalajara,Mexico,Jalisco,http://api.airvisual.com/v2/nearest_city?lat=19.24997&lon=-103.72714&key=a3EQHRApv3Eaa52iX
+9thQNkkXaDZzCFd7J,20.63126806,-103.4164308,Guadalajara,Mexico,Jalisco,http://api.airvisual.com/v2/nearest_city?lat=20.631268055556&lon=-103.41643083333&key=a3EQHRApv3Eaa52iX
+P7R3PELThb3eQCNcP,20.67376472,-103.3333361,Guadalajara,Mexico,Jalisco,http://api.airvisual.com/v2/nearest_city?lat=20.67376472&lon=-103.3333361&key=a3EQHRApv3Eaa52iX
+WEHTjsAccmyeoA9wE,20.64096667,-103.3125919,Guadalajara,Mexico,Jalisco,http://api.airvisual.com/v2/nearest_city?lat=20.64096667&lon=-103.3125919&key=a3EQHRApv3Eaa52iX
+jzu5TtRx4r8RmXze9,20.71967389,-103.3554347,Guadalajara,Mexico,Jalisco,http://api.airvisual.com/v2/nearest_city?lat=20.71967389&lon=-103.3554347&key=a3EQHRApv3Eaa52iX
+5b17393072ab10af9f02e0b2,19.60492,-99.06064,Ecatepec de Morelos,Mexico,Mexico,http://api.airvisual.com/v2/nearest_city?lat=19.60492&lon=-99.06064&key=a3EQHRApv3Eaa52iX
+PHzXWrrGBz8Fp289R,19.53305556,-99.03055556,Ecatepec de Morelos,Mexico,Mexico,http://api.airvisual.com/v2/nearest_city?lat=19.53305556&lon=-99.03055556&key=a3EQHRApv3Eaa52iX
+mieY3d8Q7bNrDHv5d,19.532968,-99.030324,Ecatepec de Morelos,Mexico,Mexico,http://api.airvisual.com/v2/nearest_city?lat=19.532968&lon=-99.030324&key=a3EQHRApv3Eaa52iX
+5b17392f72ab10af9f02e0a7,19.51194,-98.88293,Acolman,Mexico,Mexico City,http://api.airvisual.com/v2/nearest_city?lat=19.51194&lon=-98.88293&key=a3EQHRApv3Eaa52iX
+5b17393272ab10af9f02e0b8,19.54895,-98.88236,Acolman,Mexico,Mexico City,http://api.airvisual.com/v2/nearest_city?lat=19.54895&lon=-98.88236&key=a3EQHRApv3Eaa52iX
+KrvC2qLGdMiNKwWx9,19.63555556,-98.91222222,Acolman,Mexico,Mexico City,http://api.airvisual.com/v2/nearest_city?lat=19.635555555556&lon=-98.912222222222&key=a3EQHRApv3Eaa52iX
+wkmuwpBhXwoLF9GBP,19.635501,-98.912003,Acolman,Mexico,Mexico City,http://api.airvisual.com/v2/nearest_city?lat=19.635501&lon=-98.912003&key=a3EQHRApv3Eaa52iX
+5b17393772ab10af9f02e0d2,19.33212,-99.21118,Alvaro Obregon,Mexico,Mexico City,http://api.airvisual.com/v2/nearest_city?lat=19.33212&lon=-99.21118&key=a3EQHRApv3Eaa52iX
+QoWu6yg2AhK6Cotji,19.46861111,-99.17,Azcapotzalco,Mexico,Mexico City,http://api.airvisual.com/v2/nearest_city?lat=19.46861111&lon=-99.17&key=a3EQHRApv3Eaa52iX
+z7wdMG5ZSyLiH2j7T,19.468404,-99.169794,Azcapotzalco,Mexico,Mexico City,http://api.airvisual.com/v2/nearest_city?lat=19.468404&lon=-99.169794&key=a3EQHRApv3Eaa52iX
+5b17393972ab10af9f02e0dd,19.38611,-99.16204,Benito Juarez,Mexico,Mexico City,http://api.airvisual.com/v2/nearest_city?lat=19.38611&lon=-99.16204&key=a3EQHRApv3Eaa52iX
+5b17393972ab10af9f02e0de,19.38119,-99.13685,Benito Juarez,Mexico,Mexico City,http://api.airvisual.com/v2/nearest_city?lat=19.38119&lon=-99.13685&key=a3EQHRApv3Eaa52iX
+Hoo5YWoFHBbF2uSc5,19.41166667,-99.15222222,Benito Juarez,Mexico,Mexico City,http://api.airvisual.com/v2/nearest_city?lat=19.411666666667&lon=-99.152222222222&key=a3EQHRApv3Eaa52iX
+5b17392272ab10af9f02e069,19.31905,-98.19982,Chalco,Mexico,Mexico City,http://api.airvisual.com/v2/nearest_city?lat=19.31905&lon=-98.19982&key=a3EQHRApv3Eaa52iX
+5b17392272ab10af9f02e06a,19.12123,-98.16572,Chalco,Mexico,Mexico City,http://api.airvisual.com/v2/nearest_city?lat=19.12123&lon=-98.16572&key=a3EQHRApv3Eaa52iX
+5b17392872ab10af9f02e084,19.28431,-98.43885,Chalco,Mexico,Mexico City,http://api.airvisual.com/v2/nearest_city?lat=19.28431&lon=-98.43885&key=a3EQHRApv3Eaa52iX
+5b17392872ab10af9f02e085,19.03793,-98.20346,Chalco,Mexico,Mexico City,http://api.airvisual.com/v2/nearest_city?lat=19.03793&lon=-98.20346&key=a3EQHRApv3Eaa52iX
+5b17392872ab10af9f02e086,19.06406,-98.30352,Chalco,Mexico,Mexico City,http://api.airvisual.com/v2/nearest_city?lat=19.06406&lon=-98.30352&key=a3EQHRApv3Eaa52iX
+5b17392872ab10af9f02e087,19.04611,-98.045,Chalco,Mexico,Mexico City,http://api.airvisual.com/v2/nearest_city?lat=19.04611&lon=-98.045&key=a3EQHRApv3Eaa52iX
+5b17392972ab10af9f02e088,18.90815,-98.43613,Chalco,Mexico,Mexico City,http://api.airvisual.com/v2/nearest_city?lat=18.90815&lon=-98.43613&key=a3EQHRApv3Eaa52iX
+5b17392972ab10af9f02e089,19.05144,-98.29526,Chalco,Mexico,Mexico City,http://api.airvisual.com/v2/nearest_city?lat=19.05144&lon=-98.29526&key=a3EQHRApv3Eaa52iX
+5b17392e72ab10af9f02e0a3,19.27032,-98.95088,Chalco,Mexico,Mexico City,http://api.airvisual.com/v2/nearest_city?lat=19.27032&lon=-98.95088&key=a3EQHRApv3Eaa52iX
+5b17393172ab10af9f02e0b3,19.31556,-98.88284,Chalco,Mexico,Mexico City,http://api.airvisual.com/v2/nearest_city?lat=19.31556&lon=-98.88284&key=a3EQHRApv3Eaa52iX
+nddakgzFk34mHAWqF,19.26722222,-98.88611111,Chalco,Mexico,Mexico City,http://api.airvisual.com/v2/nearest_city?lat=19.26722222&lon=-98.88611111&key=a3EQHRApv3Eaa52iX
+5b17393072ab10af9f02e0ae,19.64177,-99.3068,Ciudad Lopez Mateos,Mexico,Mexico City,http://api.airvisual.com/v2/nearest_city?lat=19.64177&lon=-99.3068&key=a3EQHRApv3Eaa52iX
+My5dgDoA4srNht2tT,19.57722222,-99.25416667,Ciudad Lopez Mateos,Mexico,Mexico City,http://api.airvisual.com/v2/nearest_city?lat=19.577222222222&lon=-99.254166666667&key=a3EQHRApv3Eaa52iX
+7DYHhtdsFYeYFbiEB,19.37166667,-99.15916667,Coyoacan,Mexico,Mexico City,http://api.airvisual.com/v2/nearest_city?lat=19.371666666667&lon=-99.159166666667&key=a3EQHRApv3Eaa52iX
+dWgH3vB9bbdxFzm8Y,19.32638889,-99.17611111,Coyoacan,Mexico,Mexico City,http://api.airvisual.com/v2/nearest_city?lat=19.32638889&lon=-99.17611111&key=a3EQHRApv3Eaa52iX
+iZRhYcGvp2kBYcfaM,19.3262,-99.1761,Coyoacan,Mexico,Mexico City,http://api.airvisual.com/v2/nearest_city?lat=19.3262&lon=-99.1761&key=a3EQHRApv3Eaa52iX
+jhNDLZEeoM26pTfkm,19.3484541,-99.1633233,Coyoacan,Mexico,Mexico City,http://api.airvisual.com/v2/nearest_city?lat=19.3484541&lon=-99.1633233&key=a3EQHRApv3Eaa52iX
+qFzXREHrmr7vrrZRN,19.371612,-99.158969,Coyoacan,Mexico,Mexico City,http://api.airvisual.com/v2/nearest_city?lat=19.371612&lon=-99.158969&key=a3EQHRApv3Eaa52iX
+ChFMctzXQMKhpy7xr,19.343609,-99.24911,Cuajimalpa de Morelos,Mexico,Mexico City,http://api.airvisual.com/v2/nearest_city?lat=19.343609&lon=-99.24911&key=a3EQHRApv3Eaa52iX
+YmpSdqh7kgikjKqMi,19.357357,-99.262865,Cuajimalpa de Morelos,Mexico,Mexico City,http://api.airvisual.com/v2/nearest_city?lat=19.357357&lon=-99.262865&key=a3EQHRApv3Eaa52iX
+g3z6k756ReTGuAGnz,19.3575,-99.26305556,Cuajimalpa de Morelos,Mexico,Mexico City,http://api.airvisual.com/v2/nearest_city?lat=19.3575&lon=-99.26305556&key=a3EQHRApv3Eaa52iX
+urK5ksxmrmyjLtDXF,19.36555556,-99.29194444,Cuajimalpa de Morelos,Mexico,Mexico City,http://api.airvisual.com/v2/nearest_city?lat=19.36555556&lon=-99.29194444&key=a3EQHRApv3Eaa52iX
+5b17393372ab10af9f02e0be,19.49156,-99.12475,Cuauhtemoc,Mexico,Mexico City,http://api.airvisual.com/v2/nearest_city?lat=19.49156&lon=-99.12475&key=a3EQHRApv3Eaa52iX
+5b17393672ab10af9f02e0cd,19.49392,-99.11075,Gustavo A. Madero,Mexico,Mexico City,http://api.airvisual.com/v2/nearest_city?lat=19.49392&lon=-99.11075&key=a3EQHRApv3Eaa52iX
+DtFua4Pu7eMBWWz7N,19.52611111,-99.0825,Gustavo A. Madero,Mexico,Mexico City,http://api.airvisual.com/v2/nearest_city?lat=19.526111111111&lon=-99.0825&key=a3EQHRApv3Eaa52iX
+PuNZvJpMecfypJPL8,19.4827,-99.094517,Gustavo A. Madero,Mexico,Mexico City,http://api.airvisual.com/v2/nearest_city?lat=19.4827&lon=-99.094517&key=a3EQHRApv3Eaa52iX
+e6uGH7xCP5PqBfLiz,19.48277778,-99.09472222,Gustavo A. Madero,Mexico,Mexico City,http://api.airvisual.com/v2/nearest_city?lat=19.48277778&lon=-99.09472222&key=a3EQHRApv3Eaa52iX
+wDMJ8derQZHozNCdb,19.525995,-99.0824,Gustavo A. Madero,Mexico,Mexico City,http://api.airvisual.com/v2/nearest_city?lat=19.525995&lon=-99.0824&key=a3EQHRApv3Eaa52iX
+2MABDuP6qvpxf4fn7,19.383085,-99.12699556,Iztacalco,Mexico,Mexico City,http://api.airvisual.com/v2/nearest_city?lat=19.383085&lon=-99.12699556&key=a3EQHRApv3Eaa52iX
+6fXZ3E88dJhD6GeuQ,19.384413,-99.117641,Iztacalco,Mexico,Mexico City,http://api.airvisual.com/v2/nearest_city?lat=19.384413&lon=-99.117641&key=a3EQHRApv3Eaa52iX
+K8xejyJjvYASegEL9,19.38444444,-99.11777778,Iztacalco,Mexico,Mexico City,http://api.airvisual.com/v2/nearest_city?lat=19.384444444444&lon=-99.117777777778&key=a3EQHRApv3Eaa52iX
+WErMJNi9M3hHtDM8q,19.36083333,-99.07388889,Iztapalapa,Mexico,Mexico City,http://api.airvisual.com/v2/nearest_city?lat=19.36083333&lon=-99.07388889&key=a3EQHRApv3Eaa52iX
+sZ9tipCCwsejdNezJ,19.360794,-99.07388,Iztapalapa,Mexico,Mexico City,http://api.airvisual.com/v2/nearest_city?lat=19.360794&lon=-99.07388&key=a3EQHRApv3Eaa52iX
+5b17393872ab10af9f02e0d7,19.42847,-99.12766,Mexico City,Mexico,Mexico City,http://api.airvisual.com/v2/nearest_city?lat=19.42847&lon=-99.12766&key=a3EQHRApv3Eaa52iX
+E3K45K5SGbgZui6jz,19.42461,-99.119594,Mexico City,Mexico,Mexico City,http://api.airvisual.com/v2/nearest_city?lat=19.42461&lon=-99.119594&key=a3EQHRApv3Eaa52iX
+ZKu2tzqGacgMaFq4C,19.42472222,-99.11972222,Mexico City,Mexico,Mexico City,http://api.airvisual.com/v2/nearest_city?lat=19.42472222&lon=-99.11972222&key=a3EQHRApv3Eaa52iX
+5b17393772ab10af9f02e0d0,19.43332,-99.19919,Miguel Hidalgo,Mexico,Mexico City,http://api.airvisual.com/v2/nearest_city?lat=19.43332&lon=-99.19919&key=a3EQHRApv3Eaa52iX
+KharYq5oFoxJHvXBK,19.404,-99.20272222,Miguel Hidalgo,Mexico,Mexico City,http://api.airvisual.com/v2/nearest_city?lat=19.404&lon=-99.202722222222&key=a3EQHRApv3Eaa52iX
+aJAzFuvQpqzd4ZGmn,19.40405,-99.202603,Miguel Hidalgo,Mexico,Mexico City,http://api.airvisual.com/v2/nearest_city?lat=19.40405&lon=-99.202603&key=a3EQHRApv3Eaa52iX
+Q4AHDqCFzS9ZFtZsf,19.4825,-99.24361111,Naucalpan de Juarez,Mexico,Mexico City,http://api.airvisual.com/v2/nearest_city?lat=19.4825&lon=-99.24361111&key=a3EQHRApv3Eaa52iX
+EktTAgtzCcGwdMeGT,19.39388889,-99.02833333,Nezahualcoyotl,Mexico,Mexico City,http://api.airvisual.com/v2/nearest_city?lat=19.393888888889&lon=-99.028333333333&key=a3EQHRApv3Eaa52iX
+kBQqZjqKXqnikPWJp,19.393734,-99.028212,Nezahualcoyotl,Mexico,Mexico City,http://api.airvisual.com/v2/nearest_city?lat=19.393734&lon=-99.028212&key=a3EQHRApv3Eaa52iX
+6ZKg55DxybR2CtYKh,19.291968,-99.38052,Ocoyoacac,Mexico,Mexico City,http://api.airvisual.com/v2/nearest_city?lat=19.291968&lon=-99.38052&key=a3EQHRApv3Eaa52iX
+gYE43ftHWfGtYYWYp,19.29222222,-99.38055556,Ocoyoacac,Mexico,Mexico City,http://api.airvisual.com/v2/nearest_city?lat=19.29222222&lon=-99.38055556&key=a3EQHRApv3Eaa52iX
+5b17392f72ab10af9f02e0a9,19.74423,-99.18113,Tepotzotlan,Mexico,Mexico City,http://api.airvisual.com/v2/nearest_city?lat=19.74423&lon=-99.18113&key=a3EQHRApv3Eaa52iX
+5b17393172ab10af9f02e0b4,19.67052,-99.17989,Tepotzotlan,Mexico,Mexico City,http://api.airvisual.com/v2/nearest_city?lat=19.67052&lon=-99.17989&key=a3EQHRApv3Eaa52iX
+9AtAoipw3RnpCwaAk,19.72222222,-99.19861111,Tepotzotlan,Mexico,Mexico City,http://api.airvisual.com/v2/nearest_city?lat=19.722222222222&lon=-99.198611111111&key=a3EQHRApv3Eaa52iX
+samgTy7GFTtnRmjPQ,19.722186,-99.198602,Tepotzotlan,Mexico,Mexico City,http://api.airvisual.com/v2/nearest_city?lat=19.722186&lon=-99.198602&key=a3EQHRApv3Eaa52iX
+QhzxspW5k8uWRrgeS,19.24666667,-99.01083333,Tlahuac,Mexico,Mexico City,http://api.airvisual.com/v2/nearest_city?lat=19.24666667&lon=-99.01083333&key=a3EQHRApv3Eaa52iX
+bDWm3ZdWSud8qMxmo,19.246459,-99.010564,Tlahuac,Mexico,Mexico City,http://api.airvisual.com/v2/nearest_city?lat=19.246459&lon=-99.010564&key=a3EQHRApv3Eaa52iX
+DBjBFajtXceA3qdkx,19.529077,-99.204597,Tlalnepantla de Baz,Mexico,Mexico City,http://api.airvisual.com/v2/nearest_city?lat=19.529077&lon=-99.204597&key=a3EQHRApv3Eaa52iX
+prsL7bhRhSmtYYLwg,19.52916667,-99.20472222,Tlalnepantla de Baz,Mexico,Mexico City,http://api.airvisual.com/v2/nearest_city?lat=19.52916667&lon=-99.20472222&key=a3EQHRApv3Eaa52iX
+5b17393672ab10af9f02e0cb,19.25465,-99.10356,Tlalpan,Mexico,Mexico City,http://api.airvisual.com/v2/nearest_city?lat=19.25465&lon=-99.10356&key=a3EQHRApv3Eaa52iX
+HpsMkodkxSw8SirWs,19.2721,-99.207658,Tlalpan,Mexico,Mexico City,http://api.airvisual.com/v2/nearest_city?lat=19.2721&lon=-99.207658&key=a3EQHRApv3Eaa52iX
+KF3ptaDzf2Qqz8tCz,19.30444444,-99.10388889,Tlalpan,Mexico,Mexico City,http://api.airvisual.com/v2/nearest_city?lat=19.304444444444&lon=-99.103888888889&key=a3EQHRApv3Eaa52iX
+QYJyhzxKNmEBPGzTZ,19.304441,-99.103629,Tlalpan,Mexico,Mexico City,http://api.airvisual.com/v2/nearest_city?lat=19.304441&lon=-99.103629&key=a3EQHRApv3Eaa52iX
+ewQb6wHhC3qWWev9D,19.299614,-99.13364,Tlalpan,Mexico,Mexico City,http://api.airvisual.com/v2/nearest_city?lat=19.299614&lon=-99.13364&key=a3EQHRApv3Eaa52iX
+grhGmJiRJQACumAE8,19.27222222,-99.20777778,Tlalpan,Mexico,Mexico City,http://api.airvisual.com/v2/nearest_city?lat=19.27222222&lon=-99.20777778&key=a3EQHRApv3Eaa52iX
+5b17392e72ab10af9f02e0a5,19.28786,-99.65324,Toluca,Mexico,Mexico City,http://api.airvisual.com/v2/nearest_city?lat=19.28786&lon=-99.65324&key=a3EQHRApv3Eaa52iX
+5b17393072ab10af9f02e0ac,19.28428,-99.73394,Toluca,Mexico,Mexico City,http://api.airvisual.com/v2/nearest_city?lat=19.28428&lon=-99.73394&key=a3EQHRApv3Eaa52iX
+5b17393072ab10af9f02e0ad,19.26757,-99.53214,Toluca,Mexico,Mexico City,http://api.airvisual.com/v2/nearest_city?lat=19.26757&lon=-99.53214&key=a3EQHRApv3Eaa52iX
+5b17393072ab10af9f02e0b0,19.25934,-99.60175,Toluca,Mexico,Mexico City,http://api.airvisual.com/v2/nearest_city?lat=19.25934&lon=-99.60175&key=a3EQHRApv3Eaa52iX
+5b17393372ab10af9f02e0c0,19.26028,-99.59083,Toluca,Mexico,Mexico City,http://api.airvisual.com/v2/nearest_city?lat=19.26028&lon=-99.59083&key=a3EQHRApv3Eaa52iX
+5b17394372ab10af9f02e109,19.43612,-100.35733,Toluca,Mexico,Mexico City,http://api.airvisual.com/v2/nearest_city?lat=19.43612&lon=-100.35733&key=a3EQHRApv3Eaa52iX
+Ct5HsAjDtvnckCedw,19.27019444,-99.59519444,Toluca,Mexico,Mexico City,http://api.airvisual.com/v2/nearest_city?lat=19.270194444444&lon=-99.595194444444&key=a3EQHRApv3Eaa52iX
+DajWGKQQngccvo2rg,19.26030556,-99.64572222,Toluca,Mexico,Mexico City,http://api.airvisual.com/v2/nearest_city?lat=19.260305555556&lon=-99.645722222222&key=a3EQHRApv3Eaa52iX
+uNQNF7Ajgv5vhNaBD,19.27808333,-99.65641667,Toluca,Mexico,Mexico City,http://api.airvisual.com/v2/nearest_city?lat=19.27808333&lon=-99.65641667&key=a3EQHRApv3Eaa52iX
+z4vRxBKx2osYZ6DyL,19.32722222,-99.63428889,Toluca,Mexico,Mexico City,http://api.airvisual.com/v2/nearest_city?lat=19.32722222&lon=-99.63428889&key=a3EQHRApv3Eaa52iX
+5b17392f72ab10af9f02e0a8,19.64388,-99.21598,Tultitlan,Mexico,Mexico City,http://api.airvisual.com/v2/nearest_city?lat=19.64388&lon=-99.21598&key=a3EQHRApv3Eaa52iX
+5b17393372ab10af9f02e0bd,19.60833,-99.16944,Tultitlan,Mexico,Mexico City,http://api.airvisual.com/v2/nearest_city?lat=19.60833&lon=-99.16944&key=a3EQHRApv3Eaa52iX
+5b17393372ab10af9f02e0bf,19.6325,-99.13861,Tultitlan,Mexico,Mexico City,http://api.airvisual.com/v2/nearest_city?lat=19.6325&lon=-99.13861&key=a3EQHRApv3Eaa52iX
+5b17393572ab10af9f02e0c9,17.64344,-101.55212,Morelia,Mexico,Michoacan,http://api.airvisual.com/v2/nearest_city?lat=17.64344&lon=-101.55212&key=a3EQHRApv3Eaa52iX
+5b17394272ab10af9f02e103,19.9855,-102.28387,Morelia,Mexico,Michoacan,http://api.airvisual.com/v2/nearest_city?lat=19.9855&lon=-102.28387&key=a3EQHRApv3Eaa52iX
+5b17394272ab10af9f02e104,19.81396,-101.79157,Morelia,Mexico,Michoacan,http://api.airvisual.com/v2/nearest_city?lat=19.81396&lon=-101.79157&key=a3EQHRApv3Eaa52iX
+5b17394272ab10af9f02e105,19.41116,-102.05644,Morelia,Mexico,Michoacan,http://api.airvisual.com/v2/nearest_city?lat=19.41116&lon=-102.05644&key=a3EQHRApv3Eaa52iX
+5b17394372ab10af9f02e10a,19.6927,-100.55445,Morelia,Mexico,Michoacan,http://api.airvisual.com/v2/nearest_city?lat=19.6927&lon=-100.55445&key=a3EQHRApv3Eaa52iX
+5b17394372ab10af9f02e10b,19.08864,-102.35704,Morelia,Mexico,Michoacan,http://api.airvisual.com/v2/nearest_city?lat=19.08864&lon=-102.35704&key=a3EQHRApv3Eaa52iX
+5b17394372ab10af9f02e10c,17.97066,-102.22124,Morelia,Mexico,Michoacan,http://api.airvisual.com/v2/nearest_city?lat=17.97066&lon=-102.22124&key=a3EQHRApv3Eaa52iX
+5b17392d72ab10af9f02e09d,18.85254,-99.22537,Cuernavaca,Mexico,Morelos,http://api.airvisual.com/v2/nearest_city?lat=18.85254&lon=-99.22537&key=a3EQHRApv3Eaa52iX
+5b17392d72ab10af9f02e09e,18.88139,-99.17778,Cuernavaca,Mexico,Morelos,http://api.airvisual.com/v2/nearest_city?lat=18.88139&lon=-99.17778&key=a3EQHRApv3Eaa52iX
+5b17393572ab10af9f02e0c5,18.55462,-99.60592,Cuernavaca,Mexico,Morelos,http://api.airvisual.com/v2/nearest_city?lat=18.55462&lon=-99.60592&key=a3EQHRApv3Eaa52iX
+5b17393572ab10af9f02e0c6,18.34536,-99.5413,Cuernavaca,Mexico,Morelos,http://api.airvisual.com/v2/nearest_city?lat=18.34536&lon=-99.5413&key=a3EQHRApv3Eaa52iX
+5b17393572ab10af9f02e0c7,17.5506,-99.50578,Cuernavaca,Mexico,Morelos,http://api.airvisual.com/v2/nearest_city?lat=17.5506&lon=-99.50578&key=a3EQHRApv3Eaa52iX
+5b17393572ab10af9f02e0c8,16.84942,-99.90891,Cuernavaca,Mexico,Morelos,http://api.airvisual.com/v2/nearest_city?lat=16.84942&lon=-99.90891&key=a3EQHRApv3Eaa52iX
+ga8kYyBw2ASrX3F3h,18.92181778,-99.23489667,Cuernavaca,Mexico,Morelos,http://api.airvisual.com/v2/nearest_city?lat=18.92181778&lon=-99.23489667&key=a3EQHRApv3Eaa52iX
+Q2Y7givpxDekNdyLM,25.74527778,-100.255,Apodaca,Mexico,Nuevo Leon,http://api.airvisual.com/v2/nearest_city?lat=25.74527778&lon=-100.255&key=a3EQHRApv3Eaa52iX
+qXTvEDKLPBbK5vTjD,25.77722222,-100.1883333,Apodaca,Mexico,Nuevo Leon,http://api.airvisual.com/v2/nearest_city?lat=25.77722222&lon=-100.1883333&key=a3EQHRApv3Eaa52iX
+5b17394b72ab10af9f02e130,26.92814,-101.45212,Garcia,Mexico,Nuevo Leon,http://api.airvisual.com/v2/nearest_city?lat=26.92814&lon=-101.45212&key=a3EQHRApv3Eaa52iX
+5b17394b72ab10af9f02e134,26.90687,-101.42056,Garcia,Mexico,Nuevo Leon,http://api.airvisual.com/v2/nearest_city?lat=26.90687&lon=-101.42056&key=a3EQHRApv3Eaa52iX
+8WHeoYgSkXPrEuPbd,25.78333333,-100.5858333,Garcia,Mexico,Nuevo Leon,http://api.airvisual.com/v2/nearest_city?lat=25.783333333333&lon=-100.58583333333&key=a3EQHRApv3Eaa52iX
+GTpdt7NJQDzDKp2Wh,25.80055556,-100.3444444,General Escobedo,Mexico,Nuevo Leon,http://api.airvisual.com/v2/nearest_city?lat=25.800555555556&lon=-100.34444444444&key=a3EQHRApv3Eaa52iX
+N6xdgs4XjP9AwDLvF,25.75694444,-100.3658333,General Escobedo,Mexico,Nuevo Leon,http://api.airvisual.com/v2/nearest_city?lat=25.75694444&lon=-100.3658333&key=a3EQHRApv3Eaa52iX
+5b17392472ab10af9f02e073,23.74174,-99.14599,Juarez,Mexico,Nuevo Leon,http://api.airvisual.com/v2/nearest_city?lat=23.74174&lon=-99.14599&key=a3EQHRApv3Eaa52iX
+5b17392b72ab10af9f02e091,24.85798,-99.56768,Juarez,Mexico,Nuevo Leon,http://api.airvisual.com/v2/nearest_city?lat=24.85798&lon=-99.56768&key=a3EQHRApv3Eaa52iX
+5b17392b72ab10af9f02e092,25.58333,-99.98333,Juarez,Mexico,Nuevo Leon,http://api.airvisual.com/v2/nearest_city?lat=25.58333&lon=-99.98333&key=a3EQHRApv3Eaa52iX
+5b17392c72ab10af9f02e09b,25.62944,-100.18778,Juarez,Mexico,Nuevo Leon,http://api.airvisual.com/v2/nearest_city?lat=25.62944&lon=-100.18778&key=a3EQHRApv3Eaa52iX
+pKW7HSuNdgvsQR3SK,25.64611111,-100.0955556,Juarez,Mexico,Nuevo Leon,http://api.airvisual.com/v2/nearest_city?lat=25.64611111&lon=-100.0955556&key=a3EQHRApv3Eaa52iX
+5b17392b72ab10af9f02e094,25.74167,-100.30222,Monterrey,Mexico,Nuevo Leon,http://api.airvisual.com/v2/nearest_city?lat=25.74167&lon=-100.30222&key=a3EQHRApv3Eaa52iX
+5b17392b72ab10af9f02e096,25.67678,-100.25646,Monterrey,Mexico,Nuevo Leon,http://api.airvisual.com/v2/nearest_city?lat=25.67678&lon=-100.25646&key=a3EQHRApv3Eaa52iX
+MsCjhYKX4MtAXibqc,25.66805556,-100.2494444,Monterrey,Mexico,Nuevo Leon,http://api.airvisual.com/v2/nearest_city?lat=25.668055555556&lon=-100.24944444444&key=a3EQHRApv3Eaa52iX
+QPcXybqMMuydYG5yD,25.67583333,-100.3383333,Monterrey,Mexico,Nuevo Leon,http://api.airvisual.com/v2/nearest_city?lat=25.67583333&lon=-100.3383333&key=a3EQHRApv3Eaa52iX
+5b17392b72ab10af9f02e093,25.67325,-100.45813,San Pedro Garza Garcia,Mexico,Nuevo Leon,http://api.airvisual.com/v2/nearest_city?lat=25.67325&lon=-100.45813&key=a3EQHRApv3Eaa52iX
+QtWDLAwCGs7YQaRst,25.67555556,-100.4647222,San Pedro Garza Garcia,Mexico,Nuevo Leon,http://api.airvisual.com/v2/nearest_city?lat=25.67555556&lon=-100.4647222&key=a3EQHRApv3Eaa52iX
+TnRY4jnegeJPMm2eY,25.66527778,-100.4127778,San Pedro Garza Garcia,Mexico,Nuevo Leon,http://api.airvisual.com/v2/nearest_city?lat=25.66527778&lon=-100.4127778&key=a3EQHRApv3Eaa52iX
+WR2p8foPheMxLgafY,25.7240457,-100.3773795,San Pedro Garza Garcia,Mexico,Nuevo Leon,http://api.airvisual.com/v2/nearest_city?lat=25.7240457&lon=-100.3773795&key=a3EQHRApv3Eaa52iX
+5b17392472ab10af9f02e072,22.74304,-98.9739,San Luis Potosi,Mexico,San Luis Potosi,http://api.airvisual.com/v2/nearest_city?lat=22.74304&lon=-98.9739&key=a3EQHRApv3Eaa52iX
+5b17393c72ab10af9f02e0ea,22.74753,-102.51874,San Luis Potosi,Mexico,San Luis Potosi,http://api.airvisual.com/v2/nearest_city?lat=22.74753&lon=-102.51874&key=a3EQHRApv3Eaa52iX
+5b17394072ab10af9f02e0fd,22.18912,-100.93792,San Luis Potosi,Mexico,San Luis Potosi,http://api.airvisual.com/v2/nearest_city?lat=22.18912&lon=-100.93792&key=a3EQHRApv3Eaa52iX
+5b17394172ab10af9f02e0ff,23.64824,-100.64334,San Luis Potosi,Mexico,San Luis Potosi,http://api.airvisual.com/v2/nearest_city?lat=23.64824&lon=-100.64334&key=a3EQHRApv3Eaa52iX
+9oFYzwJBJiZsRgXf6,22.17422222,-100.9930833,San Luis Potosi,Mexico,San Luis Potosi,http://api.airvisual.com/v2/nearest_city?lat=22.174222222222&lon=-100.99308333333&key=a3EQHRApv3Eaa52iX
+5b17393d72ab10af9f02e0f0,30.71825,-112.15822,Nogales,Mexico,Sonora,http://api.airvisual.com/v2/nearest_city?lat=30.71825&lon=-112.15822&key=a3EQHRApv3Eaa52iX
+5b17393d72ab10af9f02e0f1,29.1026,-110.97732,Nogales,Mexico,Sonora,http://api.airvisual.com/v2/nearest_city?lat=29.1026&lon=-110.97732&key=a3EQHRApv3Eaa52iX
+5b17393d72ab10af9f02e0f2,27.91928,-110.89755,Nogales,Mexico,Sonora,http://api.airvisual.com/v2/nearest_city?lat=27.91928&lon=-110.89755&key=a3EQHRApv3Eaa52iX
+jTMubpAvWotDuKkmR,31.29311111,-110.9523056,Nogales,Mexico,Sonora,http://api.airvisual.com/v2/nearest_city?lat=31.29311111&lon=-110.9523056&key=a3EQHRApv3Eaa52iX
+4muWmwHWY7Z7AT6wp,16.69934028,-96.866455,Xalapa,Mexico,Veracruz,http://api.airvisual.com/v2/nearest_city?lat=16.699340277778&lon=-96.866455&key=a3EQHRApv3Eaa52iX
+5b17391f72ab10af9f02e059,20.97537,-89.61696,Xalapa,Mexico,Veracruz,http://api.airvisual.com/v2/nearest_city?lat=20.97537&lon=-89.61696&key=a3EQHRApv3Eaa52iX
+5b17391f72ab10af9f02e05a,20.93482,-89.55871,Xalapa,Mexico,Veracruz,http://api.airvisual.com/v2/nearest_city?lat=20.93482&lon=-89.55871&key=a3EQHRApv3Eaa52iX
+5b17392072ab10af9f02e05c,19.18095,-96.1429,Xalapa,Mexico,Veracruz,http://api.airvisual.com/v2/nearest_city?lat=19.18095&lon=-96.1429&key=a3EQHRApv3Eaa52iX
+5b17392072ab10af9f02e060,18.4487,-95.21327,Xalapa,Mexico,Veracruz,http://api.airvisual.com/v2/nearest_city?lat=18.4487&lon=-95.21327&key=a3EQHRApv3Eaa52iX
+5b17392072ab10af9f02e061,20.53315,-97.45946,Xalapa,Mexico,Veracruz,http://api.airvisual.com/v2/nearest_city?lat=20.53315&lon=-97.45946&key=a3EQHRApv3Eaa52iX
+5b17392172ab10af9f02e062,18.85195,-97.09957,Xalapa,Mexico,Veracruz,http://api.airvisual.com/v2/nearest_city?lat=18.85195&lon=-97.09957&key=a3EQHRApv3Eaa52iX
+5b17392172ab10af9f02e063,18.00011,-94.5569,Xalapa,Mexico,Veracruz,http://api.airvisual.com/v2/nearest_city?lat=18.00011&lon=-94.5569&key=a3EQHRApv3Eaa52iX
+5b17392172ab10af9f02e064,20.07082,-97.06078,Xalapa,Mexico,Veracruz,http://api.airvisual.com/v2/nearest_city?lat=20.07082&lon=-97.06078&key=a3EQHRApv3Eaa52iX
+5b17392172ab10af9f02e066,18.8842,-96.92559,Xalapa,Mexico,Veracruz,http://api.airvisual.com/v2/nearest_city?lat=18.8842&lon=-96.92559&key=a3EQHRApv3Eaa52iX
+5b17392172ab10af9f02e067,18.14905,-94.4447,Xalapa,Mexico,Veracruz,http://api.airvisual.com/v2/nearest_city?lat=18.14905&lon=-94.4447&key=a3EQHRApv3Eaa52iX
+5b17392572ab10af9f02e077,17.98689,-92.93028,Xalapa,Mexico,Veracruz,http://api.airvisual.com/v2/nearest_city?lat=17.98689&lon=-92.93028&key=a3EQHRApv3Eaa52iX
+5b17392572ab10af9f02e078,18.00135,-93.37559,Xalapa,Mexico,Veracruz,http://api.airvisual.com/v2/nearest_city?lat=18.00135&lon=-93.37559&key=a3EQHRApv3Eaa52iX
+5b17392672ab10af9f02e07c,18.51413,-88.30381,Xalapa,Mexico,Veracruz,http://api.airvisual.com/v2/nearest_city?lat=18.51413&lon=-88.30381&key=a3EQHRApv3Eaa52iX
+5b17392872ab10af9f02e082,19.8173,-97.35992,Xalapa,Mexico,Veracruz,http://api.airvisual.com/v2/nearest_city?lat=19.8173&lon=-97.35992&key=a3EQHRApv3Eaa52iX
+5b17392872ab10af9f02e083,18.46422,-97.39735,Xalapa,Mexico,Veracruz,http://api.airvisual.com/v2/nearest_city?lat=18.46422&lon=-97.39735&key=a3EQHRApv3Eaa52iX
+5b17392972ab10af9f02e08b,16.17535,-95.19424,Xalapa,Mexico,Veracruz,http://api.airvisual.com/v2/nearest_city?lat=16.17535&lon=-95.19424&key=a3EQHRApv3Eaa52iX
+5b17392a72ab10af9f02e08c,17.02958,-96.73518,Xalapa,Mexico,Veracruz,http://api.airvisual.com/v2/nearest_city?lat=17.02958&lon=-96.73518&key=a3EQHRApv3Eaa52iX
+5b17392a72ab10af9f02e08d,18.0883,-96.12535,Xalapa,Mexico,Veracruz,http://api.airvisual.com/v2/nearest_city?lat=18.0883&lon=-96.12535&key=a3EQHRApv3Eaa52iX
+5b17392a72ab10af9f02e08f,16.43603,-95.01975,Xalapa,Mexico,Veracruz,http://api.airvisual.com/v2/nearest_city?lat=16.43603&lon=-95.01975&key=a3EQHRApv3Eaa52iX
+5b17393a72ab10af9f02e0e0,16.75973,-93.11308,Xalapa,Mexico,Veracruz,http://api.airvisual.com/v2/nearest_city?lat=16.75973&lon=-93.11308&key=a3EQHRApv3Eaa52iX
+5b17393a72ab10af9f02e0e1,14.90385,-92.25749,Xalapa,Mexico,Veracruz,http://api.airvisual.com/v2/nearest_city?lat=14.90385&lon=-92.25749&key=a3EQHRApv3Eaa52iX
+5b17393a72ab10af9f02e0e2,16.73176,-92.64126,Xalapa,Mexico,Veracruz,http://api.airvisual.com/v2/nearest_city?lat=16.73176&lon=-92.64126&key=a3EQHRApv3Eaa52iX
+5b17393a72ab10af9f02e0e3,16.31265,-91.98107,Xalapa,Mexico,Veracruz,http://api.airvisual.com/v2/nearest_city?lat=16.31265&lon=-91.98107&key=a3EQHRApv3Eaa52iX
+5b17393a72ab10af9f02e0e4,16.2471,-92.13515,Xalapa,Mexico,Veracruz,http://api.airvisual.com/v2/nearest_city?lat=16.2471&lon=-92.13515&key=a3EQHRApv3Eaa52iX
+5b17393b72ab10af9f02e0e6,18.64592,-91.82991,Xalapa,Mexico,Veracruz,http://api.airvisual.com/v2/nearest_city?lat=18.64592&lon=-91.82991&key=a3EQHRApv3Eaa52iX
+5b17393b72ab10af9f02e0e7,19.84386,-90.52554,Xalapa,Mexico,Veracruz,http://api.airvisual.com/v2/nearest_city?lat=19.84386&lon=-90.52554&key=a3EQHRApv3Eaa52iX
+fFWw9yejfjCFfyvJa,19.53009444,-96.88188056,Xalapa,Mexico,Veracruz,http://api.airvisual.com/v2/nearest_city?lat=19.53009444&lon=-96.88188056&key=a3EQHRApv3Eaa52iX

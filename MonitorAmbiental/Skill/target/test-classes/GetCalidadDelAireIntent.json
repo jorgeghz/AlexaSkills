@@ -1,0 +1,79 @@
+{
+  "header": {
+    "namespace": "SkillDebugger",
+    "name": "CaptureDebuggingInfo",
+    "messageId": "9a4541bf-6fc1-4a83-b72d-bc03b8736897"
+  },
+  "payload": {
+    "skillId": "amzn1.ask.skill.3fd56883-e276-42ca-bf91-0fea957cc601",
+    "timestamp": "2019-01-30T00:44:40.521Z",
+    "dialogRequestId": "ae9c743a-a635-430d-adf9-4c122283133f",
+    "skillRequestId": "amzn1.echo-api.request.1e426d3e-16ea-4c64-8046-6a2c3d8ce4d4",
+    "type": "SkillExecutionInfo",
+    "content": {
+      "invocationRequest": {
+        "endpoint": "arn:aws:lambda:us-east-1:295414132324:function:MonitorAmbientalSkillJava",
+        "body": {
+          "version": "1.0",
+          "session": {
+            "new": false,
+            "sessionId": "amzn1.echo-api.session.8e9aafa3-c3ec-467b-bfd3-db46f5671a1d",
+            "application": {
+              "applicationId": "amzn1.ask.skill.3fd56883-e276-42ca-bf91-0fea957cc601"
+            },
+            "user": {
+              "userId": "amzn1.ask.account.AGHWDZ42MTA5R63GYJYADSJSY4HP3UNQQALRZLVBMUVPKDJMDGBSFAUNMGS2WBZRAJQ5FTZOL5JOFLOE5ULKUD44XQTTVZINLTLQHTDRU43GXIICOB2YCL4XYLCCBARIZKCXJUMITOUC2V2W7MDC4Z4RHNUBHZU62Z56GIMEGYJURVSTIUOSFTXYO5XKHZR76HB2ZKQ6VLQLLNY"
+            }
+          },
+          "context": {
+            "System": {
+              "application": {
+                "applicationId": "amzn1.ask.skill.3fd56883-e276-42ca-bf91-0fea957cc601"
+              },
+              "user": {
+                "userId": "amzn1.ask.account.AGHWDZ42MTA5R63GYJYADSJSY4HP3UNQQALRZLVBMUVPKDJMDGBSFAUNMGS2WBZRAJQ5FTZOL5JOFLOE5ULKUD44XQTTVZINLTLQHTDRU43GXIICOB2YCL4XYLCCBARIZKCXJUMITOUC2V2W7MDC4Z4RHNUBHZU62Z56GIMEGYJURVSTIUOSFTXYO5XKHZR76HB2ZKQ6VLQLLNY"
+              },
+              "device": {
+                "deviceId": "amzn1.ask.device.AGAZOTVJI6GM22EG5YTEK73FNO2GM3SAGWMTXMBFQGH6Q5QQCXWUO5I2S4Z3PSA36WHZI3J6KCDL46D225IRJ4ND67JEQ6U2Z3YCMJAH5MQBINWYLSYUJWQCKTYS3MUYMBYGI52TQXUUCNPTNJJ7BBW47F7Q",
+                "supportedInterfaces": {}
+              },
+              "apiEndpoint": "https://api.amazonalexa.com",
+              "apiAccessToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjEifQ.eyJhdWQiOiJodHRwczovL2FwaS5hbWF6b25hbGV4YS5jb20iLCJpc3MiOiJBbGV4YVNraWxsS2l0Iiwic3ViIjoiYW16bjEuYXNrLnNraWxsLjNmZDU2ODgzLWUyNzYtNDJjYS1iZjkxLTBmZWE5NTdjYzYwMSIsImV4cCI6MTU0ODgwOTM4MCwiaWF0IjoxNTQ4ODA5MDgwLCJuYmYiOjE1NDg4MDkwODAsInByaXZhdGVDbGFpbXMiOnsiY29uc2VudFRva2VuIjpudWxsLCJkZXZpY2VJZCI6ImFtem4xLmFzay5kZXZpY2UuQUdBWk9UVkpJNkdNMjJFRzVZVEVLNzNGTk8yR00zU0FHV01UWE1CRlFHSDZRNVFRQ1hXVU81STJTNFozUFNBMzZXSFpJM0o2S0NETDQ2RDIyNUlSSjRORDY3SkVRNlUyWjNZQ01KQUg1TVFCSU5XWUxTWVVKV1FDS1RZUzNNVVlNQllHSTUyVFFYVVVDTlBUTkpKN0JCVzQ3RjdRIiwidXNlcklkIjoiYW16bjEuYXNrLmFjY291bnQuQUdIV0RaNDJNVEE1UjYzR1lKWUFEU0pTWTRIUDNVTlFRQUxSWkxWQk1VVlBLREpNREdCU0ZBVU5NR1MyV0JaUkFKUTVGVFpPTDVKT0ZMT0U1VUxLVUQ0NFhRVFRWWklOTFRMUUhURFJVNDNHWElJQ09CMllDTDRYWUxDQ0JBUklaS0NYSlVNSVRPVUMyVjJXN01EQzRaNFJITlVCSFpVNjJaNTZHSU1FR1lKVVJWU1RJVU9TRlRYWU81WEtIWlI3NkhCMlpLUTZWTFFMTE5ZIn19.GUsoxZr7K5NOh8J3YCjWS8dqkr49HtWfb0L253YXYE9T69Q7qZJJQrf8y4MSsp2ILBq-tTSdwUIK4mye6vsukWJrulG6EpZhCWvMqB8ZSq9bTKMIPsArJBLxT6wke_nZDIW0-hXhkbjWGVPRBUWF2ttMcEFTZlPp2uBeqA_LCFU3tbH9X4Yx03j4cFfWMdV_zMWsiEC3eUnCnsko1orWI6jPHtc_Aepc9GhFysDRmoIowPFdaCHCuqwHVgd5YuB5LTyZFT32ctTCBCwT_iEtAqTJUdmbojj0-NrxXBLgvEYXxLVFEJjppxL09tKk6mY8L18cRN0fKMPQtiX7nDEVYw"
+            },
+            "Viewport": {
+              "experiences": [
+                {
+                  "arcMinuteWidth": 246,
+                  "arcMinuteHeight": 144,
+                  "canRotate": false,
+                  "canResize": false
+                }
+              ],
+              "shape": "RECTANGLE",
+              "pixelWidth": 1024,
+              "pixelHeight": 600,
+              "dpi": 160,
+              "currentPixelWidth": 1024,
+              "currentPixelHeight": 600,
+              "touch": [
+                "SINGLE"
+              ]
+            }
+          },
+          "request": {
+            "type": "IntentRequest",
+            "requestId": "amzn1.echo-api.request.1e426d3e-16ea-4c64-8046-6a2c3d8ce4d4",
+            "timestamp": "2019-01-30T00:44:40Z",
+            "locale": "es-MX",
+            "intent": {
+              "name": "GetCalidadDelAireIntent",
+              "confirmationStatus": "NONE"
+            }
+          }
+        }
+      },
+      "invocationResponse": null,
+      "metrics": null
+    }
+  }
+}
