@@ -172,13 +172,8 @@ public static void insertListToWaqiStationResults(List<StationResultJSON> statio
 				station.setUrl(rs.getString(7));
 				station.setFrecuency(rs.getFloat(8));
 				station.setAlias(rs.getString(9));
-				
 				waqiStations.add(station);
-
-				System.out.print("ID: "+rs.getString(1));
-				//System.out.print(" - JSON: "+rs.getString(2));
-				System.out.println();
-			
+				
 			}
 			
 			connection.close();

@@ -48,21 +48,22 @@ public class MonitorAmbientalClient {
 		for (WaqiStation station : allStations) {
 			double lat = Float.valueOf(station.getLatitude());
 			double lon = Float.valueOf(station.getLongitude());
-			Point point = new Point();
+			/*Point point = new Point();
 			point.setLocation(lat, lon);
 			points.add(point);
 			System.out.println("Lat: " + station.getLatitude() + ", Lon: " + station.getLongitude());
-
+			*/
+		
 		}
 		
 		Collections.sort(allStations, new Comparator<WaqiStation>() {
 			public int compare(WaqiStation station1, WaqiStation station2) {
 				double distPoint1 = distance(latitude, longitude, Double.valueOf(station1.getLatitude()),
 						Double.valueOf(station1.getLongitude()),0,0);
-				System.out.println("Distancia entre " + station1.getAlias() + " = " + distPoint1);
+				//System.out.println("Distancia entre " + station1.getAlias() + " = " + distPoint1);
 				double distPoint2 = distance(latitude, longitude, Double.valueOf(station2.getLatitude()),
 						Double.valueOf(station2.getLongitude()),0,0);
-				System.out.println("Distancia entre " + station2.getAlias() + " = " + distPoint2);
+				//sSystem.out.println("Distancia entre " + station2.getAlias() + " = " + distPoint2);
 				return Double.compare(distPoint1, distPoint2);
 			}
 		});
@@ -111,7 +112,7 @@ public class MonitorAmbientalClient {
 			StationResultJSON result = getDataFromStationURL(station);
 			stationResults.add(result);
 			i++;
-			System.out.println(i);
+	//		System.out.println(i);
 			// if(i>5) break;
 			// Thread.sleep(1000);
 		}

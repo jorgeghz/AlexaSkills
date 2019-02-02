@@ -38,18 +38,18 @@ public class GetCalidadDelAireIntentHandler implements RequestHandler {
 		String deviceId = input.getRequestEnvelope().getContext().getSystem().getDevice().getDeviceId();
 		Address address = deviceAddressServiceClient.getFullAddress(deviceId);
 		String addressStr = null;
-		addressStr = address.getAddressLine1();
-
+		
 		if (address.getAddressLine1() != null) {
-			addressStr = address.getAddressLine1();
+			addressStr = address.getAddressLine1()+", "+address.getCity();
 		} else if (address.getAddressLine2() != null) {
-			addressStr = address.getAddressLine2();
+			addressStr = address.getAddressLine2()+", "+address.getCity();
 		} else if (address.getAddressLine3() != null) {
-			addressStr = address.getAddressLine3();
+			addressStr = address.getAddressLine3()+", "+address.getCity();
 		} else {
 			speechText = "No tienes ninguna dirección registrada en tu dispositivo";
 		}
-
+		
+		
 		if (addressStr != null) {
 
 			if (address.getAddressLine1() != null) {
@@ -119,8 +119,8 @@ public class GetCalidadDelAireIntentHandler implements RequestHandler {
 		return input.getResponseBuilder().withSpeech(speechText).withSimpleCard("Calidad del Aire", speechText).build();
 	}
 
-	private WaqiStation getNearestStation(String addressLine1) throws ApiException, InterruptedException, IOException {
-		LatLng geolocation = monitor.getGeoLocation(addressLine1);
+	private WaqiStation getNearestStation(String address) throws ApiException, InterruptedException, IOException {
+		LatLng geolocation = monitor.getGeoLocation(address);
 		WaqiStation station = monitor.getNearestStation(geolocation.lat, geolocation.lng);
 
 		return station;
@@ -143,7 +143,7 @@ public class GetCalidadDelAireIntentHandler implements RequestHandler {
 	public static void main(String[] args) {
 		long startTime = System.nanoTime();
 		GetCalidadDelAireIntentHandler handler = new GetCalidadDelAireIntentHandler();
-		String address = "Tomas borboa 50, S";
+		String address = "Vidauri 205, santa catarina";
 		String speechText = null;
 
 		LatLng geolocation;
