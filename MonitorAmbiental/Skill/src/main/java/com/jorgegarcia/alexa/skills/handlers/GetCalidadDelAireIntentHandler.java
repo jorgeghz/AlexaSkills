@@ -17,7 +17,9 @@ import com.google.gson.reflect.TypeToken;
 import com.google.maps.errors.ApiException;
 import com.google.maps.model.LatLng;
 import com.jorgegarcia.airvisual.client.MonitorAmbientalClient;
+import com.jorgegarcia.airvisual.model.MessageType;
 import com.jorgegarcia.airvisual.model.StationResultJSON;
+import com.jorgegarcia.airvisual.model.StringsESMX;
 import com.jorgegarcia.airvisual.model.WaqiStation;
 
 public class GetCalidadDelAireIntentHandler implements RequestHandler {
@@ -46,16 +48,12 @@ public class GetCalidadDelAireIntentHandler implements RequestHandler {
 		} else if (address.getAddressLine3() != null) {
 			addressStr = address.getAddressLine3()+", "+address.getCity();
 		} else {
-			speechText = "No tienes ninguna dirección registrada en tu dispositivo";
+			speechText = StringsESMX.getRandonMessage(MessageType.NO_ADDRESS);
 		}
 		
 		
 		if (addressStr != null) {
 
-			if (address.getAddressLine1() != null) {
-				addressStr = address.getAddressLine1();
-
-			}
 			try {
 
 				LatLng geolocation = monitor.getGeoLocation(addressStr);
@@ -64,7 +62,8 @@ public class GetCalidadDelAireIntentHandler implements RequestHandler {
 				double meters = monitor.distance(geolocation.lat, geolocation.lng,
 						Double.valueOf(station.getLatitude()), Double.valueOf(station.getLongitude()), 0, 0);
 				boolean isStationNear = false;
-
+				
+				//if station is near than 15Km
 				if (meters < 15000) {
 					isStationNear = true;
 
@@ -100,7 +99,7 @@ public class GetCalidadDelAireIntentHandler implements RequestHandler {
 								+ " puntos AQI de contaminación. Evita el ejercicio al aire libre";
 					}
 					if (aqi >= 200) {
-						speechText = " La contaminación del aire en en " + addressStr + " es extredamente alta, con "
+						speechText = "La contaminación del aire en " + addressStr + " es extredamente alta, con "
 								+ aqi
 								+ " puntos AQI. Por tu salud evita salir a la calle o usar tapabocas en caso contrario";
 					}
@@ -111,7 +110,6 @@ public class GetCalidadDelAireIntentHandler implements RequestHandler {
 				System.out.println(speechText);
 
 			} catch (Exception e) {
-				// TODO Auto-generated catch block
 				e.printStackTrace();
 			}
 		}

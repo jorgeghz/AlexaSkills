@@ -7,6 +7,8 @@ import com.amazon.ask.dispatcher.request.handler.RequestHandler;
 import com.amazon.ask.model.LaunchRequest;
 import com.amazon.ask.model.Response;
 import com.amazon.ask.request.Predicates;
+import com.jorgegarcia.airvisual.model.MessageType;
+import com.jorgegarcia.airvisual.model.StringsESMX;
 
 public class LaunchRequestHandler implements RequestHandler {
 
@@ -15,7 +17,7 @@ public class LaunchRequestHandler implements RequestHandler {
     }
 
     public Optional<Response> handle(HandlerInput input) {
-        String speechText = "Hola, soy el Monitor Ambiental ¿Quieres saber la calidad del aire de tu entorno? Yo te lo puedo decir si me preguntas: ¿Cuál es la calidad del aire?";
+        String speechText = StringsESMX.getRandonMessage(MessageType.LAUNCH);
         return input.getResponseBuilder()
                 .withSpeech(speechText)
                 
