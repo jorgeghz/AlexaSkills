@@ -3,6 +3,8 @@ package com.jorgegarcia.alexa.skills.handlers;
 import com.amazon.ask.dispatcher.request.handler.HandlerInput;
 import com.amazon.ask.dispatcher.request.handler.RequestHandler;
 import com.amazon.ask.model.Response;
+import com.jorgegarcia.airvisual.model.MessageType;
+import com.jorgegarcia.airvisual.model.StringsESMX;
 
 import java.util.Optional;
 
@@ -15,10 +17,10 @@ public class FallbackIntentHandler implements RequestHandler {
     }
 
     public Optional<Response> handle(HandlerInput input) {
-        String speechText = "Sorry, I don't know that. You can say try saying help!";
+        String speechText = StringsESMX.getRandonMessage(MessageType.NO_INTENT_RECOGNIZED);
         return input.getResponseBuilder()
                 .withSpeech(speechText)
-                .withSimpleCard("HelloWorld", speechText)
+                .withSimpleCard("MonitorAmbiental", speechText)
                 .withReprompt(speechText)
                 .build();
     }

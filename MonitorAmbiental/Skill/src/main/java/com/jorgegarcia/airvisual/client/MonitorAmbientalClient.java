@@ -156,7 +156,7 @@ public class MonitorAmbientalClient {
 		GeoApiContext context = new GeoApiContext.Builder().apiKey(googleApiKey).build();
 		GeocodingResult[] results = GeocodingApi.geocode(context, address).await();
 		Gson gson = new GsonBuilder().setPrettyPrinting().create();
-		System.out.println(gson.toJson(results[0].addressComponents));
+		//System.out.println(gson.toJson(results[0].addressComponents));
 		LatLng latlng = results[0].geometry.location;
 		return latlng;
 	}

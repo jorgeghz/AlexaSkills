@@ -20,7 +20,6 @@ public class LaunchRequestHandler implements RequestHandler {
         String speechText = StringsESMX.getRandonMessage(MessageType.LAUNCH);
         return input.getResponseBuilder()
                 .withSpeech(speechText)
-                
                 .withSimpleCard("Monitor Ambiental", speechText)
                 .withReprompt(speechText)
                 .build();
