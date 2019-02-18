@@ -20,7 +20,6 @@ public class FallbackIntentHandler implements RequestHandler {
         String speechText = StringsESMX.getRandonMessage(MessageType.NO_INTENT_RECOGNIZED);
         return input.getResponseBuilder()
                 .withSpeech(speechText)
-                .withSimpleCard("MonitorAmbiental", speechText)
                 .withReprompt(speechText)
                 .build();
     }

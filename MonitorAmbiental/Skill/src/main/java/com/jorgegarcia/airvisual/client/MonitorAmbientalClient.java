@@ -1,6 +1,5 @@
 package com.jorgegarcia.airvisual.client;
 
-import java.awt.Point;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.lang.reflect.Type;
@@ -28,7 +27,7 @@ import com.google.maps.errors.ApiException;
 import com.google.maps.model.GeocodingResult;
 import com.google.maps.model.LatLng;
 import com.jorgegarcia.airvisual.model.StationResultJSON;
-import com.jorgegarcia.airvisual.model.WaqiStation;
+import com.jorgegarcia.airvisual.model.Station;
 
 import software.amazon.ion.Timestamp;
 
@@ -40,24 +39,12 @@ public class MonitorAmbientalClient {
 
 	}
 
-	public WaqiStation getNearestStation(final double latitude, final double longitude) {
-
-		List<WaqiStation> allStations = MonitorAmbientalDBClient.readWaqiStations();
-		List<Point> points = new ArrayList<Point>();
+	public Station getNearestStation(final double latitude, final double longitude) {
+		List<Station> allStations = MonitorAmbientalDBClient.readAllStations();
 		
-		for (WaqiStation station : allStations) {
-			double lat = Float.valueOf(station.getLatitude());
-			double lon = Float.valueOf(station.getLongitude());
-			/*Point point = new Point();
-			point.setLocation(lat, lon);
-			points.add(point);
-			System.out.println("Lat: " + station.getLatitude() + ", Lon: " + station.getLongitude());
-			*/
 		
-		}
-		
-		Collections.sort(allStations, new Comparator<WaqiStation>() {
-			public int compare(WaqiStation station1, WaqiStation station2) {
+		Collections.sort(allStations, new Comparator<Station>() {
+			public int compare(Station station1, Station station2) {
 				double distPoint1 = distance(latitude, longitude, Double.valueOf(station1.getLatitude()),
 						Double.valueOf(station1.getLongitude()),0,0);
 				//System.out.println("Distancia entre " + station1.getAlias() + " = " + distPoint1);
@@ -67,20 +54,6 @@ public class MonitorAmbientalClient {
 				return Double.compare(distPoint1, distPoint2);
 			}
 		});
-		
-
-		/*Collections.sort(allStations, new Comparator<WaqiStation>() {
-			public int compare(WaqiStation station1, WaqiStation station2) {
-				double distPoint1 = Point2D.distance(latitude, longitude, Double.valueOf(station1.getLatitude()),
-						Double.valueOf(station1.getLongitude()));
-				System.out.println("Distancia entre " + station1.getAlias() + " = " + distPoint1);
-				double distPoint2 = Point2D.distance(latitude, longitude, Double.valueOf(station2.getLatitude()),
-						Double.valueOf(station2.getLongitude()));
-				System.out.println("Distancia entre " + station2.getAlias() + " = " + distPoint2);
-				return Double.compare(distPoint1, distPoint2);
-			}
-		});*/
-
 		return allStations.get(0);
 
 	}
@@ -91,7 +64,7 @@ public class MonitorAmbientalClient {
 		MonitorAmbientalDBClient.insertListToWaqiStationResults(stationResults);
 	}
 
-	public StationResultJSON getLatestStationResult(WaqiStation station) {
+	public StationResultJSON getLatestStationResult(Station station) {
 		StationResultJSON stationResult = MonitorAmbientalDBClient.getLatestStationResult(station);
 		return stationResult;
 	}
@@ -106,8 +79,8 @@ public class MonitorAmbientalClient {
 		 * = StationsFileManager.readAllStations(filePath);
 		 */
 		int i = 0;
-		List<WaqiStation> stations = MonitorAmbientalDBClient.readWaqiStations();
-		for (WaqiStation station : stations) {
+		List<Station> stations = MonitorAmbientalDBClient.readAllStations();
+		for (Station station : stations) {
 			String url = station.getUrl();
 			StationResultJSON result = getDataFromStationURL(station);
 			stationResults.add(result);
@@ -121,7 +94,7 @@ public class MonitorAmbientalClient {
 
 	
 
-	private StationResultJSON getDataFromStationURL(WaqiStation station) {
+	private StationResultJSON getDataFromStationURL(Station station) {
 		StationResultJSON stationResult = new StationResultJSON();
 		WebTarget target = client.target(station.getUrl());
 		Invocation.Builder invocationBuilder = target.request(MediaType.APPLICATION_JSON);
@@ -189,9 +162,7 @@ public class MonitorAmbientalClient {
 	}
 	public double distance(double lat1, double lon1, double lat2,
 	        double lon2, double el1, double el2) {
-
 	    final int R = 6371; // Radius of the earth
-
 	    double latDistance = Math.toRadians(lat2 - lat1);
 	    double lonDistance = Math.toRadians(lon2 - lon1);
 	    double a = Math.sin(latDistance / 2) * Math.sin(latDistance / 2)

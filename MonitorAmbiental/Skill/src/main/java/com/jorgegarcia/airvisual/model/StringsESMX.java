@@ -35,6 +35,17 @@ public class StringsESMX {
 								"No tienes la direccion registrada en tu dispositivo Alexa",
 								"No me se tu dirección, por favor registrala",
 								"No hay ninguna direccion registrada en tu dispositivo Alexa"};
+	public static final String[] NO_GEOLOCATION={"Por favor activa el permiso de localizacion",
+			"Para que pueda saber cual es tu ubicacion, por favor activa el permiso de localización",
+			"No me se tu dirección, por favor registrala"
+			};
+	
+	public static final String[] NO_PERMISSIONS={"Por favor activa el permiso de localizacion o el de la dirección de este dispositivo"};
+	
+	
+	
+	
+	
 	public static final String[] NO_NEAR_STATION= {"No hay ninguna estación de monitoreo cerca de ",
 								"No hay ninguna estacion de monitoreo cercana a "};
 	
@@ -122,6 +133,14 @@ public class StringsESMX {
 		}
 		if(type==MessageType.AIR_QUALITY_IN) {
 			return AIR_QUALITY_IN[ThreadLocalRandom.current().nextInt(AIR_QUALITY_IN.length)];
+			
+		}
+		if(type==MessageType.NO_GEOLOCATION) {
+			return NO_GEOLOCATION[ThreadLocalRandom.current().nextInt(NO_GEOLOCATION.length)];
+			
+		}
+		if(type==MessageType.NO_PERMISSIONS) {
+			return NO_PERMISSIONS[ThreadLocalRandom.current().nextInt(NO_PERMISSIONS.length)];
 			
 		}
 		

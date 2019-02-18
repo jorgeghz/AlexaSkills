@@ -21,7 +21,7 @@ public class CancelandStopIntentHandler implements RequestHandler {
     	
         return input.getResponseBuilder()
                 .withSpeech(speechText)
-                .withSimpleCard("Monitor Ambiental", speechText)
+                .withSimpleCard("Monitor Ambiental", "¡Bye!")
                 .build();
     }
 }

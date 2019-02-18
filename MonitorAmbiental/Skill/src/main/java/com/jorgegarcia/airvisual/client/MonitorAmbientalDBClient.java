@@ -11,7 +11,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 
 import com.jorgegarcia.airvisual.model.StationResultJSON;
-import com.jorgegarcia.airvisual.model.WaqiStation;
+import com.jorgegarcia.airvisual.model.Station;
 import com.mysql.cj.jdbc.JdbcPreparedStatement;
 
 import software.amazon.ion.Timestamp;
@@ -147,22 +147,18 @@ public static void insertListToWaqiStationResults(List<StationResultJSON> statio
 		}
 	}
 	
-	public static List<WaqiStation> readWaqiStations() {
+	public static List<Station> readAllStations() {
 		
 		Connection connection = null;
-		
-		List<WaqiStation> waqiStations=new ArrayList<WaqiStation>();
-
+		List<Station> stations=new ArrayList<Station>();
 		String sql = "SELECT * FROM monitorambientaldb.stations_waqi";
 		try {
 			connection = DriverManager.getConnection(url, user, password);
 			PreparedStatement preparedStatement = connection.prepareStatement(sql);
-
 			ResultSet rs = preparedStatement.executeQuery();
 
 			while (rs.next()) {
-				
-				WaqiStation station=new WaqiStation();
+				Station station=new Station();
 				station.setId(rs.getString(1));
 				station.setLatitude(rs.getString(2));
 				station.setLongitude(rs.getString(3));
@@ -172,19 +168,18 @@ public static void insertListToWaqiStationResults(List<StationResultJSON> statio
 				station.setUrl(rs.getString(7));
 				station.setFrecuency(rs.getFloat(8));
 				station.setAlias(rs.getString(9));
-				waqiStations.add(station);
+				stations.add(station);
 				
 			}
-			
 			connection.close();
 		} catch (Exception e) {
 		
 		
 		}
-		return waqiStations;
+		return stations;
 	}
 
-	public static StationResultJSON getLatestStationResult(WaqiStation station) {
+	public static StationResultJSON getLatestStationResult(Station station) {
 		
 		Connection connection = null;
 		StationResultJSON lateStationResult=null;
