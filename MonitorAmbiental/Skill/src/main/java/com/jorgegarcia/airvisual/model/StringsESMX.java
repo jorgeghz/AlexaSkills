@@ -2,74 +2,80 @@ package com.jorgegarcia.airvisual.model;
 
 import java.util.concurrent.ThreadLocalRandom;
 
-public class StringsESMX {
+public class StringsESMX implements Messages {
 	
-	public static final String[] NO_INTENT_RECOGNIZED= {"Perdona pero eso no lo se, mejor pregúntame: ¿Cuál es la calidad del aire?"};
-	public static final String[] EXCELLENT_AIR_QUALITY= {"<say-as interpret-as=\"interjection\">chulada</say-as>. La contaminacion es mínima en este momento",
-			"<say-as interpret-as=\"interjection\">chulada</say-as>. Casi no hay contaminación. ¿Acaso nadie esta usando el automóvil?",
-			"<say-as interpret-as=\"interjection\">fabuloso</say-as> La calidad del aire es muy muy buena"};
-	public static final String[] GOOD_AIR_QUALITY= {"<say-as interpret-as=\"interjection\">ande</say-as>.  La calidad del aire es buena",
+	public  final String[] NO_INTENT_RECOGNIZED= {"Perdona pero eso no lo se, mejor pregúntame: ¿Cuál es la calidad del aire?"};
+	public  final String[] EXCELLENT_AIR_QUALITY= {"<say-as interpret-as=\"interjection\">chulada</say-as>. La contaminacion es mínima en este momento",
+			"<say-as interpret-as=\"interjection\">chulada</say-as>. Casi no hay contaminación. ¿Acaso nadie está usando el automóvil?",
+			"<say-as interpret-as=\"interjection\">fabuloso</say-as>. La calidad del aire es muy muy buena"};
+	public  final String[] GOOD_AIR_QUALITY= {"<say-as interpret-as=\"interjection\">ande</say-as>.  La calidad del aire es buena",
 													"<say-as interpret-as=\"interjection\">chido</say-as>.  La calidad del aire es buena",
 													"<say-as interpret-as=\"interjection\">chulada</say-as>.  La calidad del aire es buena"};
-	public static final String[] REGULAR_AIR_QUALITY= {};
-	public static final String[] BAD_AIR_QUALITY= {"<say-as interpret-as=\"interjection\">chale</say-as>. La calidad del aire es mala en este momento",
+	public  final String[] REGULAR_AIR_QUALITY= {};
+	public  final String[] BAD_AIR_QUALITY= {"<say-as interpret-as=\"interjection\">chale</say-as>. La calidad del aire es mala en este momento",
 													"<say-as interpret-as=\"interjection\">ay no</say-as>. hay mucha contaminación ahorita",
 													"<say-as interpret-as=\"interjection\">puff</say-as>. Hay demasiada contaminación en estos momentos"};
-	public static final String[] HAZARD_AIR_QUALITY= {};
-	public static final String[] AIR_QUALITY_IN= {"La estación de monitoreo",
+	public  final String[] HAZARD_AIR_QUALITY= {};
+	public  final String[] AIR_QUALITY_IN= {"La estación de monitoreo",
 												"La contaminación del aire en ",
 												"Ahorita la contaminación en "};
 	
-	public static final String[] HELP= {"¡Hola! Monitor Ambiental te ayuda a saber la calidad del aire en tiempo real, solo pregúntame: ¿Que tanta contaminación hay?" 
-										+ "o también puedes saber la contaminación de algún otro lugar dentro de México si me preguntas: ¿Cual es la calidad del aire en? Y despues mencionas el nombre de la calle y la ciudad",  
-										"Me puedes preguntar cosas como: ¿Cual es la calidad del aire? o ¿Que tanta contaminación en? mencionando alguna direccion y ciudad"};
+	public  final String[] HELP= {"Monitor Ambiental te ayuda a saber la calidad del aire en tiempo real, solo pregúntame: ¿Que tanta contaminación hay?" 
+										+ "o también puedes saber la contaminación de algún otro lugar dentro de México si me preguntas: ¿Cual es la calidad del aire en? Y despues menciona el nombre de la calle y  ciudad de alguna parte de México",  
+										"Me puedes preguntar cosas como: ¿Cual es la calidad del aire? o ¿Que tanta contaminación en? mencionando alguna direccion y ciudad de México"};
 	
-	public static final String[] LAUNCH_MESSAGE= {"¡Hola! Monitor Ambiental te ayuda a saber la calidad del aire en tiempo real, solo preguntame: ¿Que tanta contaminación hay?",
-													"¡Hola! Monitor Ambiental te ayuda a saber la calidad del aire en tiempo real, solo pregúntame: ¿Que tanta contaminación hay? "
-													+ "o también puedes saber la contaminación de algún otro lugar dentro de México si me preguntas: ¿Cual es la calidad del aire en? Y despues me mencionas el nombre de la calle y la ciudad",
-													"¡Aló!, soy el Monitor Ambiental ¿Quieres saber la calidad del aire de tu entorno? Yo te lo puedo decir si me preguntas: ¿Que tanta contaminación hay?",
-													"<say-as interpret-as=\"interjection\">qué ondas</say-as>. Monitor Ambiental aquí. ¿Como te puedo ayudar?",
-													"<say-as interpret-as=\"interjection\">qué ondas</say-as>. ¿Como te puedo ayudar? "
+	public  final String[] LAUNCH_MESSAGE= {"¡Hola! Monitor Ambiental te ayuda a saber la calidad del aire en tiempo real, solo preguntame: ¿Que tanta contaminación hay?",
+													//"¡Hola! Monitor Ambiental te ayuda a saber la calidad del aire en tiempo real, solo pregúntame: ¿Que tanta contaminación hay? "
+													//+ "o también puedes saber la contaminación de algún otro lugar dentro de México si me preguntas: ¿Cual es la calidad del aire en? Y despues me mencionas el nombre de la calle y la ciudad",
+													"¡Aló!, soy el Monitor Ambiental ¿Quieres saber la calidad del aire de tu entorno? Tan solo di: ¿Que tanta contaminación hay?",
+													//"<say-as interpret-as=\"interjection\">qué ondas</say-as>. Monitor Ambiental aquí. ¿Como te puedo ayudar?",
+													//"<say-as interpret-as=\"interjection\">qué ondas</say-as>. ¿Como te puedo ayudar? "
 													};
-	public static final String[] NO_ADDRESS={"No tienes ninguna dirección registrada en tu dispositivo",
+	public  final String[] NO_ADDRESS_IN_DEVICE={"No tienes ninguna dirección registrada en tu dispositivo",
 								"No tienes la direccion registrada en tu dispositivo Alexa",
-								"No me se tu dirección, por favor registrala",
+								"No me se tu dirección de tu dispositivo, por favor registrala",
 								"No hay ninguna direccion registrada en tu dispositivo Alexa"};
-	public static final String[] NO_GEOLOCATION={"Por favor activa el permiso de localizacion",
-			"Para que pueda saber cual es tu ubicacion, por favor activa el permiso de localización",
-			"No me se tu dirección, por favor registrala"
+	public  final String[] NO_GEOLOCATION={"Por favor activa el permiso de localizacion",
+			"Para que pueda saber cual es tu ubicación, por favor activa el permiso de localización",
+			"No me se tu dirección, por favor regístrala."
 			};
 	
-	public static final String[] NO_PERMISSIONS={"Por favor activa el permiso de localizacion o el de la dirección de este dispositivo"};
+	public  final String[] NO_PERMISSIONS={"Por favor activa el permiso de localización o el de la dirección de este dispositivo"};
 	
 	
 	
 	
 	
-	public static final String[] NO_NEAR_STATION= {"No hay ninguna estación de monitoreo cerca de ",
+	public  final String[] NO_NEAR_STATION= {"No hay ninguna estación de monitoreo cerca de ",
 								"No hay ninguna estacion de monitoreo cercana a "};
+	public  final String[] NO_RECENT_STATION_DATA= {"No hay información reciente de la estación de monitoreo ",
+	"Perdona, no he podido obtener información reciente de la estación de monitoreo "};
 	
-	public static final String[] ERROR= {"<say-as interpret-as=\"interjection\">puff</say-as>." + 
-										"<prosody rate=\"medium\">Se cayó el sistema, típico. Intentare arreglarlo, por favor vuelve a preguntarme en un ratito</prosody>" };							
+	public  final String[] ERROR= {"<say-as interpret-as=\"interjection\">puff</say-as>." + 
+										"<prosody rate=\"medium\"> Se cayó el sistema, típico. Intentare arreglarlo, por favor vuelve a preguntarme en un ratito</prosody>",
+										"<say-as interpret-as=\"interjection\">puff</say-as>." + 
+												"<prosody rate=\"medium\"> Algo se desconchinfló. Dame algunos minutos para arreglarlo</prosody>" };							
 			
-	public static final String[] GOODBYE= {"<say-as interpret-as=\"interjection\">hasta luego</say-as>",
-									"<say-as interpret-as=\"interjection\">hasta pronto</say-as>",
+	public  final String[] GOODBYE= {"<say-as interpret-as=\"interjection\">hasta luego</say-as>",
+								"<say-as interpret-as=\"interjection\">hasta pronto</say-as>",
 									"<say-as interpret-as=\"interjection\">nos vemos luego</say-as>",
 									"<say-as interpret-as=\"interjection\">okey</say-as>",
 									"<say-as interpret-as=\"interjection\">que te vaya bien</say-as>",
 									"<say-as interpret-as=\"interjection\">bonito día</say-as>"};	
 	
+	public  final String[] NO_LOCATION_FROM_ADDRESS= {"<say-as interpret-as=\"interjection\">puff</say-as>. Esa no parece ser una direccion valida en México"};	
 	
-	public static final String[] GOODBYE2= {"¡Adios!",
+	public  final String[] GOODBYE2= {"¡Adios!",
 			"Nos vemos",
 			"Que tengas un buen dia",
 			"Hasta la vista baby"};			
 	
-	public static final String[] REPROMPT_SOMETHING_ELSE= {"¿Deseas saber la calidad de algun otro lugar?"};
-	public static final String[] REPROMPT_GET_DETAILS= {"¿Deseas que te diga informacion detallada?"};
+	public  final String[] REPROMPT_SOMETHING_ELSE= {"¿Deseas saber la calidad de aire de algun otro lugar?"};
+	public  final String[] REPROMPT_GET_DETAILS= {"¿Deseas que te diga informacion detallada?"};
 	
 
-	public static String getRandonMessage(MessageType type) {
+	
+	public  String getRandomMessage(MessageType type) {
 		if(type==MessageType.LAUNCH) {
 			return LAUNCH_MESSAGE[ThreadLocalRandom.current().nextInt(LAUNCH_MESSAGE.length)];
 			
@@ -78,8 +84,8 @@ public class StringsESMX {
 			return LAUNCH_MESSAGE[ThreadLocalRandom.current().nextInt(LAUNCH_MESSAGE.length)];
 			
 		}
-		if(type==MessageType.NO_ADDRESS) {
-			return NO_ADDRESS[ThreadLocalRandom.current().nextInt(NO_ADDRESS.length)];
+		if(type==MessageType.NO_ADDRESS_IN_DEVICE) {
+			return NO_ADDRESS_IN_DEVICE[ThreadLocalRandom.current().nextInt(NO_ADDRESS_IN_DEVICE.length)];
 			
 		}
 		if(type==MessageType.NO_NEAR_STATION) {
@@ -143,6 +149,14 @@ public class StringsESMX {
 			return NO_PERMISSIONS[ThreadLocalRandom.current().nextInt(NO_PERMISSIONS.length)];
 			
 		}
+		if(type==MessageType.NO_RECENT_STATION_DATA) {
+			return NO_RECENT_STATION_DATA[ThreadLocalRandom.current().nextInt(NO_RECENT_STATION_DATA.length)];
+			
+		}
+		if(type==MessageType.NO_LOCATION_FROM_ADDRESS) {
+			return NO_LOCATION_FROM_ADDRESS[ThreadLocalRandom.current().nextInt(NO_LOCATION_FROM_ADDRESS.length)];
+			
+		}
 		
 		
 		return null;
@@ -152,8 +166,8 @@ public class StringsESMX {
 		
 		
 		for(int i=0; i<50;i++) {
-			int x=ThreadLocalRandom.current().nextInt(NO_ADDRESS.length);
-			System.out.println(x);
+		//	int x=ThreadLocalRandom.current().nextInt(NO_ADDRESS_IN_DEVICE.length);
+			//System.out.println(x);
 			
 		}
 		
